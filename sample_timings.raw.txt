@@ -1,0 +1,1104 @@
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.049356698989868164
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.1570732593536377
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.1838061809539795
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.21306705474853516
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.2950778007507324
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.42513084411621094
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.46732378005981445
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.09734392166137695
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.'] time: 0.32929515838623047
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0776362419128418
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.13884210586547852
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.18441987037658691
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.21693110466003418
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.39083170890808105
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.39413022994995117
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.495743989944458
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.09000968933105469
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.'] time: 0.19223499298095703
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0550081729888916
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.13291311264038086
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.21190571784973145
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.22887420654296875
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.30158019065856934
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.3884401321411133
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.5407280921936035
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.09161114692687988
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.'] time: 0.10501503944396973
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.05479884147644043
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.16467928886413574
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.18810415267944336
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.2390437126159668
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.33728814125061035
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.4022331237792969
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.4824790954589844
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.11685490608215332
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.'] time: 0.07441186904907227
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.06083202362060547
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.14389777183532715
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.2137610912322998
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.22130894660949707
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.3161149024963379
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.42038702964782715
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.4904208183288574
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.10258674621582031
+WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.'] time: 0.0961463451385498
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.062352895736694336
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.1389467716217041
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.18221306800842285
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.26911377906799316
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.3026139736175537
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.38317108154296875
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.46075010299682617
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.12620902061462402
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.'] time: 0.32198190689086914
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.05323028564453125
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.1334090232849121
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.281160831451416
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.21878600120544434
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.3150029182434082
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.42276978492736816
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.5221002101898193
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.09745597839355469
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.'] time: 0.16328191757202148
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0805051326751709
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.14690494537353516
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.1874701976776123
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.24717283248901367
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.3173696994781494
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.41375303268432617
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.49443507194519043
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12099099159240723
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.'] time: 0.10384726524353027
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.06170177459716797
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.14729785919189453
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.215745210647583
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.3511650562286377
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.30613088607788086
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.4715890884399414
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.6221060752868652
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.10184001922607422
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.'] time: 0.09772086143493652
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.061514854431152344
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.15076708793640137
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.18736696243286133
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.31453919410705566
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.3293490409851074
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.40990376472473145
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.5106239318847656
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.10910320281982422
+WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.'] time: 0.06880474090576172
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07843208312988281
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.14714598655700684
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.17798781394958496
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.2234058380126953
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.35859107971191406
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.47469067573547363
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.539614200592041
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.09438800811767578
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.'] time: 0.302473783493042
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0518951416015625
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.13785290718078613
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.19833803176879883
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.222930908203125
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.3173189163208008
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.38501787185668945
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.5121650695800781
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.11368918418884277
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.'] time: 0.19694805145263672
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.06627488136291504
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.17008686065673828
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.1779041290283203
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.2413160800933838
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.3696920871734619
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.6889569759368896
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.49104785919189453
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.09556984901428223
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.'] time: 0.12006211280822754
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.07428288459777832
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.15164899826049805
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.20243406295776367
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.22353386878967285
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.30126166343688965
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.41570186614990234
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.8364317417144775
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.13113999366760254
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.'] time: 0.0808100700378418
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.08314800262451172
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.15715408325195312
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.19552302360534668
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.3413817882537842
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.32442593574523926
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5115492343902588
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.574235200881958
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.1601719856262207
+WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.'] time: 0.10860013961791992
+VaasInterchangeHopping_Sampler.w=30.['sample_size=30.'] time: 0.364346981048584
+VaasInterchangeHopping_Sampler.w=30.['sample_size=40.'] time: 0.4255368709564209
+VaasInterchangeHopping_Sampler.w=30.['sample_size=60.'] time: 0.38724207878112793
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.055349111557006836
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.18170499801635742
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.43023681640625
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.31643199920654297
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.45363497734069824
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.6759481430053711
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.7176899909973145
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.13275694847106934
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.'] time: 0.7045340538024902
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.11264514923095703
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3741118907928467
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.24040889739990234
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.37108802795410156
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.453416109085083
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.613684892654419
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.6973230838775635
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.13731813430786133
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.'] time: 0.4435551166534424
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.07431602478027344
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.20343899726867676
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.28583312034606934
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.3016071319580078
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.45087385177612305
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.5875241756439209
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.6874251365661621
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.11582279205322266
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.'] time: 0.15398406982421875
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.09347391128540039
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.17837309837341309
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.2508420944213867
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.3413369655609131
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.43529772758483887
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5580103397369385
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.7232232093811035
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1219489574432373
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.'] time: 0.10299992561340332
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.09642791748046875
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.19352412223815918
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.4016609191894531
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.40544676780700684
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.5815079212188721
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5997300148010254
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.6976079940795898
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.14423418045043945
+WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.'] time: 0.11855578422546387
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.057859182357788086
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.3565948009490967
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.2581181526184082
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.3502006530761719
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.4418020248413086
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.5373070240020752
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.716223955154419
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.24631190299987793
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.'] time: 0.6367878913879395
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.05569601058959961
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.18186378479003906
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.26594996452331543
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.3726069927215576
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.595515251159668
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.162355899810791
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.7358620166778564
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.12679100036621094
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.'] time: 0.3276658058166504
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0628206729888916
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.21387004852294922
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.25661396980285645
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.35626792907714844
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.4677281379699707
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.5792279243469238
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.7224669456481934
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12295222282409668
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.'] time: 0.17782974243164062
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.08362698554992676
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.1980137825012207
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.24861407279968262
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.32849788665771484
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.45163702964782715
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5567972660064697
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.1467289924621582
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.16853785514831543
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.'] time: 0.10683488845825195
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.08862018585205078
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.20449304580688477
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.2596738338470459
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.31399083137512207
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.43290114402770996
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5793399810791016
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.7200019359588623
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.13135981559753418
+WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.'] time: 0.10230183601379395
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.05530595779418945
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.21246075630187988
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.2380979061126709
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.3350522518157959
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.41959500312805176
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.7252161502838135
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.0107667446136475
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.14178204536437988
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.'] time: 0.7159969806671143
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0763251781463623
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.19270706176757812
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.27030110359191895
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.3297300338745117
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.5249667167663574
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.7071428298950195
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.6844210624694824
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.1566939353942871
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.'] time: 0.281724214553833
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.06030988693237305
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.24622893333435059
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.3383347988128662
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.350247859954834
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.5147037506103516
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.6014919281005859
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.718580961227417
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12668275833129883
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.'] time: 0.19068074226379395
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.07406330108642578
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.1921238899230957
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.26776599884033203
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.305988073348999
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.42538022994995117
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5728240013122559
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.7717688083648682
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.11944794654846191
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.'] time: 0.12610888481140137
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.06847310066223145
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.18451309204101562
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.41295528411865234
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.3914339542388916
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.5368759632110596
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.654364824295044
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.7939009666442871
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.14720416069030762
+WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.'] time: 0.11101913452148438
+VaasInterchangeHopping_Sampler.w=50.['sample_size=30.'] time: 0.7135839462280273
+VaasInterchangeHopping_Sampler.w=50.['sample_size=40.'] time: 0.8003509044647217
+VaasInterchangeHopping_Sampler.w=50.['sample_size=60.'] time: 0.7703988552093506
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.09104776382446289
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.37352776527404785
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.4548969268798828
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.6088910102844238
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.001065969467163
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.2619452476501465
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.507796049118042
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.25489377975463867
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.'] time: 1.5274932384490967
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09458780288696289
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3915061950683594
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.5116188526153564
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.643740177154541
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.9791979789733887
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.2315001487731934
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.482666015625
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.245741605758667
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.'] time: 1.3034889698028564
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.09842371940612793
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.39815807342529297
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.4873631000518799
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.7030391693115234
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.8772459030151367
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.1023218631744385
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.6061558723449707
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.2429370880126953
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.'] time: 0.9279956817626953
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.0955207347869873
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.3991889953613281
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.5659058094024658
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.6061639785766602
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.8585259914398193
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.1565361022949219
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.5017311573028564
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1912379264831543
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.'] time: 0.3195018768310547
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1601569652557373
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.32333898544311523
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.6226859092712402
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.8458712100982666
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.8981199264526367
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.1372249126434326
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.3463048934936523
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.32668614387512207
+WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.'] time: 0.2078721523284912
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07549285888671875
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.3254852294921875
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.4238290786743164
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.545403003692627
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.7809243202209473
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.659182071685791
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.2436621189117432
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.27240800857543945
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.'] time: 1.995516061782837
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.10056591033935547
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3447558879852295
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.4954547882080078
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.5638349056243896
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.9680449962615967
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.141601800918579
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.2959020137786865
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.3331587314605713
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.'] time: 1.3508789539337158
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.10861706733703613
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.3814961910247803
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.461514949798584
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.7109987735748291
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.9322781562805176
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.2984089851379395
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.5621991157531738
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.24369096755981445
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.'] time: 0.7333419322967529
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.1209108829498291
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.38816213607788086
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.5607089996337891
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.6587800979614258
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.0138309001922607
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.2803659439086914
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.473848819732666
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2385578155517578
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.'] time: 0.2714579105377197
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.10310220718383789
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.3245108127593994
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.47608137130737305
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.7720870971679688
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.3525328636169434
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.0624828338623047
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.4885609149932861
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.21056008338928223
+WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.'] time: 0.3257942199707031
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07902693748474121
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.42322564125061035
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6620368957519531
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.5751280784606934
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.9836790561676025
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.0240590572357178
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.2378711700439453
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.19473624229431152
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.'] time: 2.010277271270752
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0791621208190918
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.33693885803222656
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.44202232360839844
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.5572810173034668
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.8082931041717529
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.0764837265014648
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.3680531978607178
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.2393169403076172
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.'] time: 1.1357109546661377
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.08005094528198242
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.31149888038635254
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.4332468509674072
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.5508618354797363
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.9497461318969727
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.0476698875427246
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.36285400390625
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.21599793434143066
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.'] time: 0.4611337184906006
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.08025383949279785
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.3132307529449463
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.42710185050964355
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.5920131206512451
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.8140921592712402
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.0668401718139648
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.3657171726226807
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1945021152496338
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.'] time: 0.2697601318359375
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.10051417350769043
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.31476569175720215
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.4349179267883301
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.639014720916748
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.872776985168457
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.0998048782348633
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.2500770092010498
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.1968839168548584
+WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.'] time: 0.16814517974853516
+VaasInterchangeHopping_Sampler.w=100.['sample_size=30.'] time: 1.2427537441253662
+VaasInterchangeHopping_Sampler.w=100.['sample_size=40.'] time: 1.5989513397216797
+VaasInterchangeHopping_Sampler.w=100.['sample_size=60.'] time: 2.0464980602264404
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.10527205467224121
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.41925716400146484
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.5930740833282471
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8330121040344238
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1208703517913818
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.4495720863342285
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.8280689716339111
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.30513691902160645
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.'] time: 1.9621009826660156
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09637093544006348
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.4891242980957031
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.6376650333404541
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8233659267425537
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.191770076751709
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.544388771057129
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9272708892822266
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.29971790313720703
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.'] time: 1.8095498085021973
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.09621119499206543
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.47625184059143066
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6343538761138916
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.8077497482299805
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.1400518417358398
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.5339956283569336
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.8699231147766113
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.27744317054748535
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.'] time: 1.2929878234863281
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.09942507743835449
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.45220518112182617
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.9171466827392578
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.8302409648895264
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.291327953338623
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.706071138381958
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.9522662162780762
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2823657989501953
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.'] time: 0.5993101596832275
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.11335515975952148
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5731892585754395
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.7144570350646973
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.864300012588501
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.1581189632415771
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.476208209991455
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.024724245071411
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.26942896842956543
+WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.'] time: 0.30106091499328613
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.0938417911529541
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.43068504333496094
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6247308254241943
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8767471313476562
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1726250648498535
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.0539767742156982
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.397196054458618
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.2641751766204834
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.'] time: 2.989593982696533
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.10996770858764648
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.47199010848999023
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.6385757923126221
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8267388343811035
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.2988789081573486
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.75148606300354
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9174232482910156
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.36281323432922363
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.'] time: 2.4141478538513184
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.12193679809570312
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.5960049629211426
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6393330097198486
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.8242301940917969
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.1870667934417725
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.089566230773926
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 2.0301449298858643
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.28106689453125
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.'] time: 1.3861019611358643
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.10217118263244629
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.4832921028137207
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.6198406219482422
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.989692211151123
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.1687359809875488
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.654815912246704
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.8905978202819824
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.29301977157592773
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.'] time: 0.5226740837097168
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1109309196472168
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.4749870300292969
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.6241888999938965
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.1735029220581055
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.3765850067138672
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.5713610649108887
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.9999327659606934
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.26911497116088867
+WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.'] time: 0.4204120635986328
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.10060310363769531
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.4808340072631836
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6640150547027588
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8259718418121338
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1985111236572266
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.5631370544433594
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.0180931091308594
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.3174130916595459
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.'] time: 3.3984439373016357
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09428906440734863
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.5156712532043457
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.8447329998016357
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8212320804595947
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.1906979084014893
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.558985948562622
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9053378105163574
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.2750570774078369
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.'] time: 2.9653379917144775
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.22626209259033203
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.4642059803009033
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6482701301574707
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.816115140914917
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.5799880027770996
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.5595052242279053
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.1281089782714844
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.2779240608215332
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.'] time: 1.4125750064849854
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.1810622215270996
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.6569600105285645
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.7763888835906982
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.1079599857330322
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.376528024673462
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.565737009048462
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.2931811809539795
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2960679531097412
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.'] time: 0.5236780643463135
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.16939306259155273
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.47368597984313965
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.7763597965240479
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.9916973114013672
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.1674559116363525
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.5239112377166748
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.0492100715637207
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.2777390480041504
+WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.'] time: 0.31032228469848633
+VaasInterchangeHopping_Sampler.w=150.['sample_size=30.'] time: 1.9932799339294434
+VaasInterchangeHopping_Sampler.w=150.['sample_size=40.'] time: 2.4420950412750244
+VaasInterchangeHopping_Sampler.w=150.['sample_size=60.'] time: 3.892446994781494
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.14661598205566406
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5910718441009521
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7827978134155273
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.1134369373321533
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.4807767868041992
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.8914790153503418
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.049633026123047
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.4593052864074707
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.'] time: 3.313783884048462
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.2354271411895752
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.6889762878417969
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.0261049270629883
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.3031671047210693
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.6168839931488037
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.1372721195220947
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.030492067337036
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.4044461250305176
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.'] time: 2.8349521160125732
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17430496215820312
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6835591793060303
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.9981048107147217
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.1310019493103027
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.1982429027557373
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.1340749263763428
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.1708171367645264
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.342479944229126
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.'] time: 2.733206033706665
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.11876392364501953
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.6114041805267334
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.0506699085235596
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.4445538520812988
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.7094252109527588
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.544787883758545
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.799881935119629
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5441060066223145
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.'] time: 1.1895971298217773
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.14088988304138184
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5858438014984131
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8163201808929443
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.3606998920440674
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.5416996479034424
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.13828706741333
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.596349000930786
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.37921786308288574
+WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.'] time: 0.4882240295410156
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.11756086349487305
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5649099349975586
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7771162986755371
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.0421948432922363
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.702868938446045
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.495864152908325
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.050363779067993
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.3415050506591797
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.'] time: 3.9353787899017334
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.14402461051940918
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.6022799015045166
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.9013080596923828
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.1888179779052734
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.6729159355163574
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.0485198497772217
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 2.572299003601074
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.35242605209350586
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.'] time: 3.4187428951263428
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.10988378524780273
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6043078899383545
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.868340015411377
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.0709702968597412
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.5414009094238281
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.0035502910614014
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 2.6358063220977783
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.35601115226745605
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.'] time: 2.3253390789031982
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.13730192184448242
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.5862691402435303
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.8215210437774658
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.0959060192108154
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.5126559734344482
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.0671098232269287
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.712603807449341
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.34691309928894043
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.'] time: 0.8809008598327637
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.13635015487670898
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.564561128616333
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8154828548431396
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.044449806213379
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.4987170696258545
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.00770902633667
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.453963041305542
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.3540530204772949
+WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.'] time: 0.4680500030517578
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.11960697174072266
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5556826591491699
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7917819023132324
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.0034689903259277
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.515152931213379
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.8910739421844482
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.4403159618377686
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.33493900299072266
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.'] time: 5.088656187057495
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.11610198020935059
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.5878908634185791
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.8169770240783691
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.064605951309204
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.5411372184753418
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.1815381050109863
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 2.7455861568450928
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.34517383575439453
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.'] time: 4.428612947463989
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2064671516418457
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6096458435058594
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.8100769519805908
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.0690093040466309
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.639611005783081
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.0234169960021973
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.050312042236328
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.3901841640472412
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.'] time: 2.298034906387329
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.13241291046142578
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.5812201499938965
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.802908182144165
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5473699569702148
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.611440896987915
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.9887590408325195
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.4532651901245117
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.3555338382720947
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.'] time: 0.8349587917327881
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1382598876953125
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5660548210144043
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8165271282196045
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.1080429553985596
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.5869140625
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.3570470809936523
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.0440680980682373
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.3415560722351074
+WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.'] time: 0.46961522102355957
+VaasInterchangeHopping_Sampler.w=200.['sample_size=30.'] time: 2.663788080215454
+VaasInterchangeHopping_Sampler.w=200.['sample_size=40.'] time: 3.6661970615386963
+VaasInterchangeHopping_Sampler.w=200.['sample_size=60.'] time: 5.7503883838653564
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.16601991653442383
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.009401798248291
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.2023050785064697
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.9223921298980713
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.3728370666503906
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.9871842861175537
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.174577236175537
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.5266468524932861
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.'] time: 4.561549186706543
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21664786338806152
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.8732171058654785
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.2187590599060059
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.6038591861724854
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.2709341049194336
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.040215015411377
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.8016977310180664
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.505821943283081
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.'] time: 4.035606145858765
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.20113801956176758
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.9054009914398193
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.2968831062316895
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.580099105834961
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.282431125640869
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.9939441680908203
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.695572853088379
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.5764873027801514
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.'] time: 3.5027248859405518
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.15011096000671387
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.8610069751739502
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.2130470275878906
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5471031665802002
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.2922468185424805
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.9036049842834473
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 3.6844160556793213
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5011250972747803
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.'] time: 2.4776837825775146
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1693871021270752
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.8523199558258057
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.2057099342346191
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.6452720165252686
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.8950741291046143
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.2130370140075684
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.733983039855957
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.4808492660522461
+WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.'] time: 0.9990100860595703
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.14548397064208984
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.8169169425964355
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.1419310569763184
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.432844638824463
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.1924469470977783
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.80683970451355
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.5428390502929688
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.4740757942199707
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.'] time: 5.005042314529419
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.163543701171875
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.848365068435669
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.2074368000030518
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.5315642356872559
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.2499961853027344
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.9776768684387207
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.6697049140930176
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.5117979049682617
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.'] time: 5.029376029968262
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.15431809425354004
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.8423969745635986
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.1884057521820068
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.5226969718933105
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.186068296432495
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.8831167221069336
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.5454180240631104
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.49152493476867676
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.'] time: 4.004730939865112
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.15409493446350098
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.8358597755432129
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.1982989311218262
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.7124857902526855
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.2871618270874023
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.9398889541625977
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 3.928394079208374
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5713248252868652
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.'] time: 2.605264902114868
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.27438998222351074
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.888869047164917
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.2315089702606201
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9551019668579102
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.2743260860443115
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.1680848598480225
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.921081066131592
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.4994230270385742
+WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.'] time: 1.037053108215332
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.15226006507873535
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.8611242771148682
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.1812589168548584
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.6118621826171875
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.654806613922119
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 3.1205310821533203
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.784881830215454
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.49671006202697754
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.'] time: 8.174214839935303
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.15930485725402832
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.1737730503082275
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.3267521858215332
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.6633648872375488
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.5763089656829834
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.7076971530914307
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.909895181655884
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.5189487934112549
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.'] time: 8.512738227844238
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.33467578887939453
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.1207408905029297
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.2060878276824951
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.5766708850860596
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.4753811359405518
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.208577871322632
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 4.102230072021484
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.5840659141540527
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.'] time: 5.456568717956543
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.17511582374572754
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.9995200634002686
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.301151990890503
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5785720348358154
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.3922739028930664
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 3.3260440826416016
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 4.5104660987854
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5165612697601318
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.'] time: 2.1372177600860596
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.16072607040405273
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.9405760765075684
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.4567301273345947
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.042567253112793
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.5738680362701416
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.687803030014038
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 4.2882080078125
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.504281759262085
+WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.'] time: 0.9496021270751953
+VaasInterchangeHopping_Sampler.w=300.['sample_size=30.'] time: 3.9146440029144287
+VaasInterchangeHopping_Sampler.w=300.['sample_size=40.'] time: 6.122446060180664
+VaasInterchangeHopping_Sampler.w=300.['sample_size=60.'] time: 8.916807174682617
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.1781623363494873
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.3184230327606201
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.532400131225586
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.8292317390441895
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.688654899597168
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 3.8444509506225586
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 4.626718997955322
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.6465950012207031
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.'] time: 5.883673191070557
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21448493003845215
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.167572021484375
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.6413078308105469
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.0210719108581543
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.309084177017212
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.7624638080596924
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 4.772582769393921
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6484420299530029
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.'] time: 5.705195903778076
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.20621800422668457
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.4708337783813477
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8056449890136719
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.224553108215332
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.150798797607422
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.350876331329346
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.169328927993774
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.8081259727478027
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.'] time: 5.605647087097168
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.2098250389099121
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.1286590099334717
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.6485230922698975
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.1896932125091553
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.0878939628601074
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 3.764700174331665
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 4.943609237670898
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6936600208282471
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.'] time: 4.286085844039917
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.22757506370544434
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.1155948638916016
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.6322150230407715
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9642930030822754
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.06476092338562
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.315550088882446
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 4.750736236572266
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.6207640171051025
+WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.'] time: 1.816176176071167
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.21697092056274414
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.0854849815368652
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.4220430850982666
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.8777000904083252
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.7033441066741943
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.27446722984314
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.208836078643799
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.8510251045227051
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.'] time: 6.677519083023071
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.18364596366882324
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.0773568153381348
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.5059711933135986
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.9674649238586426
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.8450329303741455
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.6890738010406494
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 4.656236886978149
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6740491390228271
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.'] time: 6.675899267196655
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17451214790344238
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.0444409847259521
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.6126618385314941
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.1593868732452393
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.1139779090881348
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.8213937282562256
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.244840145111084
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7050070762634277
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.'] time: 5.852931022644043
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.17842507362365723
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.060671091079712
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.4885787963867188
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.9746580123901367
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.8334169387817383
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.18929386138916
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.6368608474731445
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6205918788909912
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.'] time: 5.574281930923462
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.261462926864624
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.0351049900054932
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 2.0007219314575195
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.4024951457977295
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.5369317531585693
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.3541789054870605
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.115332841873169
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7137689590454102
+WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.'] time: 1.6264362335205078
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.17146587371826172
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.0071830749511719
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 2.006540060043335
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.8617987632751465
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.95206880569458
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.4668989181518555
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 4.285744905471802
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.5938208103179932
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.'] time: 12.774649858474731
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.3245701789855957
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.7638158798217773
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 2.4531352519989014
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.3746299743652344
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 4.469332218170166
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 4.654471158981323
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 6.069364070892334
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6204359531402588
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.'] time: 10.451532125473022
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17276716232299805
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.0604908466339111
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.4765727519989014
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.374084234237671
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.5574951171875
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.953392267227173
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 4.683063745498657
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.6094729900360107
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.'] time: 10.651710987091064
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.23840570449829102
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.0405142307281494
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.4786300659179688
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.2054238319396973
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.4855499267578125
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.007882118225098
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 5.367537021636963
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6833767890930176
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.'] time: 4.912307977676392
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.5344340801239014
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.1605868339538574
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.481090784072876
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9423103332519531
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.931870937347412
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.597509145736694
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 6.474989175796509
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.822282075881958
+WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.'] time: 1.751985788345337
+VaasInterchangeHopping_Sampler.w=400.['sample_size=30.'] time: 6.077416896820068
+VaasInterchangeHopping_Sampler.w=400.['sample_size=40.'] time: 7.35993504524231
+VaasInterchangeHopping_Sampler.w=400.['sample_size=60.'] time: 11.478674173355103
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.2220001220703125
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.2083251476287842
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 3.1802799701690674
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.347874641418457
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 4.29484486579895
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.224959135055542
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.9677910804748535
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.726740837097168
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.'] time: 6.18764591217041
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.22797012329101562
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.3017351627349854
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.8961670398712158
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.3611950874328613
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.4809608459472656
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 5.927489995956421
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 7.291095018386841
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 1.0626003742218018
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.'] time: 7.200985908508301
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2986338138580322
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.3049201965332031
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.9272119998931885
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 3.335381031036377
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 4.193346977233887
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 5.488531112670898
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 6.964399099349976
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7340059280395508
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.'] time: 6.742777109146118
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.2125401496887207
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.497581958770752
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.8318610191345215
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.3707120418548584
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.9942240715026855
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.867660045623779
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.696099042892456
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.8078279495239258
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.'] time: 4.781852960586548
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.21933293342590332
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 2.500274181365967
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.7431418895721436
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.34539794921875
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 4.1087939739227295
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.524596929550171
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.551106929779053
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7181248664855957
+WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.'] time: 2.7884809970855713
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.20995688438415527
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.1977190971374512
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.8064298629760742
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.2307281494140625
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 3.1996121406555176
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.092757940292358
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.167474269866943
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.73992919921875
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.'] time: 8.628154993057251
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21621179580688477
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.2642252445220947
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.8242077827453613
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.361492872238159
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.462999105453491
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 4.444524049758911
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 5.448462963104248
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.7373178005218506
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.'] time: 8.33884572982788
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2631409168243408
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.4560558795928955
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8978700637817383
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.5189571380615234
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 4.9170191287994385
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.512655019760132
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 6.477374076843262
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7259612083435059
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.'] time: 8.278757810592651
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.20358610153198242
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.2692170143127441
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 2.1160781383514404
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.4179110527038574
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.9718821048736572
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.550557851791382
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 5.871667861938477
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.7373058795928955
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.'] time: 6.4081621170043945
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.34929418563842773
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.6490628719329834
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 2.4986789226531982
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.7030131816864014
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.41191029548645
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 6.572938919067383
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.638374090194702
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7294731140136719
+WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.'] time: 2.3846356868743896
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.25604677200317383
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.2248291969299316
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.8408901691436768
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.747919797897339
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 3.8286237716674805
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 6.765093088150024
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 6.945508003234863
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.7464709281921387
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.'] time: 11.894743919372559
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.2153940200805664
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.85247802734375
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 2.1541099548339844
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.479914903640747
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.6449661254882812
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 5.862537860870361
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 6.6262428760528564
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 1.3279590606689453
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.'] time: 13.678931951522827
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2103276252746582
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.2777490615844727
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8654818534851074
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.4094159603118896
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.619443416595459
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.5457189083099365
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.686726331710815
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7538061141967773
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.'] time: 9.526901006698608
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.21241402626037598
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.2541980743408203
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.7970139980316162
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.4097988605499268
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.3910439014434814
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 5.103307008743286
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.598582983016968
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 1.028700828552246
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.'] time: 5.61665940284729
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.21319317817687988
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.2465097904205322
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.807499885559082
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.336594820022583
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.504837989807129
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.462220191955566
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.953737258911133
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.9967532157897949
+WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.'] time: 2.138881206512451
+VaasInterchangeHopping_Sampler.w=500.['sample_size=30.'] time: 6.208431959152222
+VaasInterchangeHopping_Sampler.w=500.['sample_size=40.'] time: 8.20773196220398
+VaasInterchangeHopping_Sampler.w=500.['sample_size=60.'] time: 11.686748743057251

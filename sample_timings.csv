@@ -1,0 +1,1105 @@
+Raw Filename,SamplerType,windowSize,sample_size ,parallel_count,cluster_centers,time taken
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.049356698989868164",WillsSampler,30,30,1,1,0.04935669899
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.1570732593536377",WillsSampler,30,30,1,11,0.1570732594
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.1838061809539795",WillsSampler,30,30,1,16,0.183806181
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.21306705474853516",WillsSampler,30,30,1,21,0.2130670547
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.2950778007507324",WillsSampler,30,30,1,31,0.2950778008
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.42513084411621094",WillsSampler,30,30,1,41,0.4251308441
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.46732378005981445",WillsSampler,30,30,1,51,0.4673237801
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.09734392166137695",WillsSampler,30,30,1,6,0.09734392166
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=1.'] time: 0.32929515838623047",WillsSampler,30,30,1,0,0.3292951584
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0776362419128418",WillsSampler,30,30,2,1,0.07763624191
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.13884210586547852",WillsSampler,30,30,2,11,0.1388421059
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.18441987037658691",WillsSampler,30,30,2,16,0.1844198704
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.21693110466003418",WillsSampler,30,30,2,21,0.2169311047
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.39083170890808105",WillsSampler,30,30,2,31,0.3908317089
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.39413022994995117",WillsSampler,30,30,2,41,0.3941302299
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.495743989944458",WillsSampler,30,30,2,51,0.4957439899
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.09000968933105469",WillsSampler,30,30,2,6,0.09000968933
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=2.'] time: 0.19223499298095703",WillsSampler,30,30,2,0,0.192234993
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0550081729888916",WillsSampler,30,30,4,1,0.05500817299
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.13291311264038086",WillsSampler,30,30,4,11,0.1329131126
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.21190571784973145",WillsSampler,30,30,4,16,0.2119057178
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.22887420654296875",WillsSampler,30,30,4,21,0.2288742065
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.30158019065856934",WillsSampler,30,30,4,31,0.3015801907
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.3884401321411133",WillsSampler,30,30,4,41,0.3884401321
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.5407280921936035",WillsSampler,30,30,4,51,0.5407280922
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.09161114692687988",WillsSampler,30,30,4,6,0.09161114693
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=4.'] time: 0.10501503944396973",WillsSampler,30,30,4,0,0.1050150394
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.05479884147644043",WillsSampler,30,30,8,1,0.05479884148
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.16467928886413574",WillsSampler,30,30,8,11,0.1646792889
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.18810415267944336",WillsSampler,30,30,8,16,0.1881041527
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.2390437126159668",WillsSampler,30,30,8,21,0.2390437126
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.33728814125061035",WillsSampler,30,30,8,31,0.3372881413
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.4022331237792969",WillsSampler,30,30,8,41,0.4022331238
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.4824790954589844",WillsSampler,30,30,8,51,0.4824790955
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.11685490608215332",WillsSampler,30,30,8,6,0.1168549061
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=8.'] time: 0.07441186904907227",WillsSampler,30,30,8,0,0.07441186905
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.06083202362060547",WillsSampler,30,30,16,1,0.06083202362
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.14389777183532715",WillsSampler,30,30,16,11,0.1438977718
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.2137610912322998",WillsSampler,30,30,16,16,0.2137610912
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.22130894660949707",WillsSampler,30,30,16,21,0.2213089466
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.3161149024963379",WillsSampler,30,30,16,31,0.3161149025
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.42038702964782715",WillsSampler,30,30,16,41,0.4203870296
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.4904208183288574",WillsSampler,30,30,16,51,0.4904208183
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.10258674621582031",WillsSampler,30,30,16,6,0.1025867462
+"WillsSampler.w=30.['sample_size=30.', 'parallel_count=16.'] time: 0.0961463451385498",WillsSampler,30,30,16,0,0.09614634514
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.062352895736694336",WillsSampler,30,40,1,1,0.06235289574
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.1389467716217041",WillsSampler,30,40,1,11,0.1389467716
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.18221306800842285",WillsSampler,30,40,1,16,0.182213068
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.26911377906799316",WillsSampler,30,40,1,21,0.2691137791
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.3026139736175537",WillsSampler,30,40,1,31,0.3026139736
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.38317108154296875",WillsSampler,30,40,1,41,0.3831710815
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.46075010299682617",WillsSampler,30,40,1,51,0.460750103
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.12620902061462402",WillsSampler,30,40,1,6,0.1262090206
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=1.'] time: 0.32198190689086914",WillsSampler,30,40,1,0,0.3219819069
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.05323028564453125",WillsSampler,30,40,2,1,0.05323028564
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.1334090232849121",WillsSampler,30,40,2,11,0.1334090233
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.281160831451416",WillsSampler,30,40,2,16,0.2811608315
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.21878600120544434",WillsSampler,30,40,2,21,0.2187860012
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.3150029182434082",WillsSampler,30,40,2,31,0.3150029182
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.42276978492736816",WillsSampler,30,40,2,41,0.4227697849
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.5221002101898193",WillsSampler,30,40,2,51,0.5221002102
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.09745597839355469",WillsSampler,30,40,2,6,0.09745597839
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=2.'] time: 0.16328191757202148",WillsSampler,30,40,2,0,0.1632819176
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0805051326751709",WillsSampler,30,40,4,1,0.08050513268
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.14690494537353516",WillsSampler,30,40,4,11,0.1469049454
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.1874701976776123",WillsSampler,30,40,4,16,0.1874701977
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.24717283248901367",WillsSampler,30,40,4,21,0.2471728325
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.3173696994781494",WillsSampler,30,40,4,31,0.3173696995
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.41375303268432617",WillsSampler,30,40,4,41,0.4137530327
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.49443507194519043",WillsSampler,30,40,4,51,0.4944350719
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12099099159240723",WillsSampler,30,40,4,6,0.1209909916
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=4.'] time: 0.10384726524353027",WillsSampler,30,40,4,0,0.1038472652
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.06170177459716797",WillsSampler,30,40,8,1,0.0617017746
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.14729785919189453",WillsSampler,30,40,8,11,0.1472978592
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.215745210647583",WillsSampler,30,40,8,16,0.2157452106
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.3511650562286377",WillsSampler,30,40,8,21,0.3511650562
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.30613088607788086",WillsSampler,30,40,8,31,0.3061308861
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.4715890884399414",WillsSampler,30,40,8,41,0.4715890884
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.6221060752868652",WillsSampler,30,40,8,51,0.6221060753
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.10184001922607422",WillsSampler,30,40,8,6,0.1018400192
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=8.'] time: 0.09772086143493652",WillsSampler,30,40,8,0,0.09772086143
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.061514854431152344",WillsSampler,30,40,16,1,0.06151485443
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.15076708793640137",WillsSampler,30,40,16,11,0.1507670879
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.18736696243286133",WillsSampler,30,40,16,16,0.1873669624
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.31453919410705566",WillsSampler,30,40,16,21,0.3145391941
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.3293490409851074",WillsSampler,30,40,16,31,0.329349041
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.40990376472473145",WillsSampler,30,40,16,41,0.4099037647
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.5106239318847656",WillsSampler,30,40,16,51,0.5106239319
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.10910320281982422",WillsSampler,30,40,16,6,0.1091032028
+"WillsSampler.w=30.['sample_size=40.', 'parallel_count=16.'] time: 0.06880474090576172",WillsSampler,30,40,16,0,0.06880474091
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07843208312988281",WillsSampler,30,60,1,1,0.07843208313
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.14714598655700684",WillsSampler,30,60,1,11,0.1471459866
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.17798781394958496",WillsSampler,30,60,1,16,0.1779878139
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.2234058380126953",WillsSampler,30,60,1,21,0.223405838
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.35859107971191406",WillsSampler,30,60,1,31,0.3585910797
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.47469067573547363",WillsSampler,30,60,1,41,0.4746906757
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.539614200592041",WillsSampler,30,60,1,51,0.5396142006
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.09438800811767578",WillsSampler,30,60,1,6,0.09438800812
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=1.'] time: 0.302473783493042",WillsSampler,30,60,1,0,0.3024737835
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0518951416015625",WillsSampler,30,60,2,1,0.0518951416
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.13785290718078613",WillsSampler,30,60,2,11,0.1378529072
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.19833803176879883",WillsSampler,30,60,2,16,0.1983380318
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.222930908203125",WillsSampler,30,60,2,21,0.2229309082
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.3173189163208008",WillsSampler,30,60,2,31,0.3173189163
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.38501787185668945",WillsSampler,30,60,2,41,0.3850178719
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.5121650695800781",WillsSampler,30,60,2,51,0.5121650696
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.11368918418884277",WillsSampler,30,60,2,6,0.1136891842
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=2.'] time: 0.19694805145263672",WillsSampler,30,60,2,0,0.1969480515
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.06627488136291504",WillsSampler,30,60,4,1,0.06627488136
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.17008686065673828",WillsSampler,30,60,4,11,0.1700868607
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.1779041290283203",WillsSampler,30,60,4,16,0.177904129
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.2413160800933838",WillsSampler,30,60,4,21,0.2413160801
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.3696920871734619",WillsSampler,30,60,4,31,0.3696920872
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.6889569759368896",WillsSampler,30,60,4,41,0.6889569759
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.49104785919189453",WillsSampler,30,60,4,51,0.4910478592
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.09556984901428223",WillsSampler,30,60,4,6,0.09556984901
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=4.'] time: 0.12006211280822754",WillsSampler,30,60,4,0,0.1200621128
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.07428288459777832",WillsSampler,30,60,8,1,0.0742828846
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.15164899826049805",WillsSampler,30,60,8,11,0.1516489983
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.20243406295776367",WillsSampler,30,60,8,16,0.202434063
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.22353386878967285",WillsSampler,30,60,8,21,0.2235338688
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.30126166343688965",WillsSampler,30,60,8,31,0.3012616634
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.41570186614990234",WillsSampler,30,60,8,41,0.4157018661
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.8364317417144775",WillsSampler,30,60,8,51,0.8364317417
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.13113999366760254",WillsSampler,30,60,8,6,0.1311399937
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=8.'] time: 0.0808100700378418",WillsSampler,30,60,8,0,0.08081007004
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.08314800262451172",WillsSampler,30,60,16,1,0.08314800262
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.15715408325195312",WillsSampler,30,60,16,11,0.1571540833
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.19552302360534668",WillsSampler,30,60,16,16,0.1955230236
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.3413817882537842",WillsSampler,30,60,16,21,0.3413817883
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.32442593574523926",WillsSampler,30,60,16,31,0.3244259357
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5115492343902588",WillsSampler,30,60,16,41,0.5115492344
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.574235200881958",WillsSampler,30,60,16,51,0.5742352009
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.1601719856262207",WillsSampler,30,60,16,6,0.1601719856
+"WillsSampler.w=30.['sample_size=60.', 'parallel_count=16.'] time: 0.10860013961791992",WillsSampler,30,60,16,0,0.1086001396
+VaasInterchangeHopping_Sampler.w=30.['sample_size=30.'] time: 0.364346981048584,Ideal Sampler,30,30,0,0,0.364346981
+VaasInterchangeHopping_Sampler.w=30.['sample_size=40.'] time: 0.4255368709564209,Ideal Sampler,30,40,0,0,0.425536871
+VaasInterchangeHopping_Sampler.w=30.['sample_size=60.'] time: 0.38724207878112793,Ideal Sampler,30,60,0,0,0.3872420788
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.055349111557006836",WillsSampler,50,30,1,1,0.05534911156
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.18170499801635742",WillsSampler,50,30,1,11,0.181704998
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.43023681640625",WillsSampler,50,30,1,16,0.4302368164
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.31643199920654297",WillsSampler,50,30,1,21,0.3164319992
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.45363497734069824",WillsSampler,50,30,1,31,0.4536349773
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.6759481430053711",WillsSampler,50,30,1,41,0.675948143
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.7176899909973145",WillsSampler,50,30,1,51,0.717689991
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.13275694847106934",WillsSampler,50,30,1,6,0.1327569485
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=1.'] time: 0.7045340538024902",WillsSampler,50,30,1,0,0.7045340538
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.11264514923095703",WillsSampler,50,30,2,1,0.1126451492
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3741118907928467",WillsSampler,50,30,2,11,0.3741118908
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.24040889739990234",WillsSampler,50,30,2,16,0.2404088974
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.37108802795410156",WillsSampler,50,30,2,21,0.371088028
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.453416109085083",WillsSampler,50,30,2,31,0.4534161091
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.613684892654419",WillsSampler,50,30,2,41,0.6136848927
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.6973230838775635",WillsSampler,50,30,2,51,0.6973230839
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.13731813430786133",WillsSampler,50,30,2,6,0.1373181343
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=2.'] time: 0.4435551166534424",WillsSampler,50,30,2,0,0.4435551167
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.07431602478027344",WillsSampler,50,30,4,1,0.07431602478
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.20343899726867676",WillsSampler,50,30,4,11,0.2034389973
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.28583312034606934",WillsSampler,50,30,4,16,0.2858331203
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.3016071319580078",WillsSampler,50,30,4,21,0.301607132
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.45087385177612305",WillsSampler,50,30,4,31,0.4508738518
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.5875241756439209",WillsSampler,50,30,4,41,0.5875241756
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.6874251365661621",WillsSampler,50,30,4,51,0.6874251366
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.11582279205322266",WillsSampler,50,30,4,6,0.1158227921
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=4.'] time: 0.15398406982421875",WillsSampler,50,30,4,0,0.1539840698
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.09347391128540039",WillsSampler,50,30,8,1,0.09347391129
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.17837309837341309",WillsSampler,50,30,8,11,0.1783730984
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.2508420944213867",WillsSampler,50,30,8,16,0.2508420944
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.3413369655609131",WillsSampler,50,30,8,21,0.3413369656
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.43529772758483887",WillsSampler,50,30,8,31,0.4352977276
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5580103397369385",WillsSampler,50,30,8,41,0.5580103397
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.7232232093811035",WillsSampler,50,30,8,51,0.7232232094
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1219489574432373",WillsSampler,50,30,8,6,0.1219489574
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=8.'] time: 0.10299992561340332",WillsSampler,50,30,8,0,0.1029999256
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.09642791748046875",WillsSampler,50,30,16,1,0.09642791748
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.19352412223815918",WillsSampler,50,30,16,11,0.1935241222
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.4016609191894531",WillsSampler,50,30,16,16,0.4016609192
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.40544676780700684",WillsSampler,50,30,16,21,0.4054467678
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.5815079212188721",WillsSampler,50,30,16,31,0.5815079212
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5997300148010254",WillsSampler,50,30,16,41,0.5997300148
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.6976079940795898",WillsSampler,50,30,16,51,0.6976079941
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.14423418045043945",WillsSampler,50,30,16,6,0.1442341805
+"WillsSampler.w=50.['sample_size=30.', 'parallel_count=16.'] time: 0.11855578422546387",WillsSampler,50,30,16,0,0.1185557842
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.057859182357788086",WillsSampler,50,40,1,1,0.05785918236
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.3565948009490967",WillsSampler,50,40,1,11,0.3565948009
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.2581181526184082",WillsSampler,50,40,1,16,0.2581181526
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.3502006530761719",WillsSampler,50,40,1,21,0.3502006531
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.4418020248413086",WillsSampler,50,40,1,31,0.4418020248
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.5373070240020752",WillsSampler,50,40,1,41,0.537307024
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 0.716223955154419",WillsSampler,50,40,1,51,0.7162239552
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.24631190299987793",WillsSampler,50,40,1,6,0.246311903
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=1.'] time: 0.6367878913879395",WillsSampler,50,40,1,0,0.6367878914
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.05569601058959961",WillsSampler,50,40,2,1,0.05569601059
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.18186378479003906",WillsSampler,50,40,2,11,0.1818637848
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.26594996452331543",WillsSampler,50,40,2,16,0.2659499645
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.3726069927215576",WillsSampler,50,40,2,21,0.3726069927
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.595515251159668",WillsSampler,50,40,2,31,0.5955152512
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.162355899810791",WillsSampler,50,40,2,41,1.1623559
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.7358620166778564",WillsSampler,50,40,2,51,0.7358620167
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.12679100036621094",WillsSampler,50,40,2,6,0.1267910004
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=2.'] time: 0.3276658058166504",WillsSampler,50,40,2,0,0.3276658058
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.0628206729888916",WillsSampler,50,40,4,1,0.06282067299
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.21387004852294922",WillsSampler,50,40,4,11,0.2138700485
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.25661396980285645",WillsSampler,50,40,4,16,0.2566139698
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.35626792907714844",WillsSampler,50,40,4,21,0.3562679291
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.4677281379699707",WillsSampler,50,40,4,31,0.467728138
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.5792279243469238",WillsSampler,50,40,4,41,0.5792279243
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.7224669456481934",WillsSampler,50,40,4,51,0.7224669456
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12295222282409668",WillsSampler,50,40,4,6,0.1229522228
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=4.'] time: 0.17782974243164062",WillsSampler,50,40,4,0,0.1778297424
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.08362698554992676",WillsSampler,50,40,8,1,0.08362698555
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.1980137825012207",WillsSampler,50,40,8,11,0.1980137825
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.24861407279968262",WillsSampler,50,40,8,16,0.2486140728
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.32849788665771484",WillsSampler,50,40,8,21,0.3284978867
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.45163702964782715",WillsSampler,50,40,8,31,0.4516370296
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5567972660064697",WillsSampler,50,40,8,41,0.556797266
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.1467289924621582",WillsSampler,50,40,8,51,1.146728992
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.16853785514831543",WillsSampler,50,40,8,6,0.1685378551
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=8.'] time: 0.10683488845825195",WillsSampler,50,40,8,0,0.1068348885
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.08862018585205078",WillsSampler,50,40,16,1,0.08862018585
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.20449304580688477",WillsSampler,50,40,16,11,0.2044930458
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.2596738338470459",WillsSampler,50,40,16,16,0.2596738338
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.31399083137512207",WillsSampler,50,40,16,21,0.3139908314
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.43290114402770996",WillsSampler,50,40,16,31,0.432901144
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.5793399810791016",WillsSampler,50,40,16,41,0.5793399811
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.7200019359588623",WillsSampler,50,40,16,51,0.720001936
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.13135981559753418",WillsSampler,50,40,16,6,0.1313598156
+"WillsSampler.w=50.['sample_size=40.', 'parallel_count=16.'] time: 0.10230183601379395",WillsSampler,50,40,16,0,0.102301836
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.05530595779418945",WillsSampler,50,60,1,1,0.05530595779
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.21246075630187988",WillsSampler,50,60,1,11,0.2124607563
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.2380979061126709",WillsSampler,50,60,1,16,0.2380979061
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.3350522518157959",WillsSampler,50,60,1,21,0.3350522518
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.41959500312805176",WillsSampler,50,60,1,31,0.4195950031
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 0.7252161502838135",WillsSampler,50,60,1,41,0.7252161503
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.0107667446136475",WillsSampler,50,60,1,51,1.010766745
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.14178204536437988",WillsSampler,50,60,1,6,0.1417820454
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=1.'] time: 0.7159969806671143",WillsSampler,50,60,1,0,0.7159969807
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0763251781463623",WillsSampler,50,60,2,1,0.07632517815
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.19270706176757812",WillsSampler,50,60,2,11,0.1927070618
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.27030110359191895",WillsSampler,50,60,2,16,0.2703011036
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.3297300338745117",WillsSampler,50,60,2,21,0.3297300339
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.5249667167663574",WillsSampler,50,60,2,31,0.5249667168
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 0.7071428298950195",WillsSampler,50,60,2,41,0.7071428299
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 0.6844210624694824",WillsSampler,50,60,2,51,0.6844210625
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.1566939353942871",WillsSampler,50,60,2,6,0.1566939354
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=2.'] time: 0.281724214553833",WillsSampler,50,60,2,0,0.2817242146
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.06030988693237305",WillsSampler,50,60,4,1,0.06030988693
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.24622893333435059",WillsSampler,50,60,4,11,0.2462289333
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.3383347988128662",WillsSampler,50,60,4,16,0.3383347988
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.350247859954834",WillsSampler,50,60,4,21,0.35024786
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.5147037506103516",WillsSampler,50,60,4,31,0.5147037506
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 0.6014919281005859",WillsSampler,50,60,4,41,0.6014919281
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 0.718580961227417",WillsSampler,50,60,4,51,0.7185809612
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.12668275833129883",WillsSampler,50,60,4,6,0.1266827583
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=4.'] time: 0.19068074226379395",WillsSampler,50,60,4,0,0.1906807423
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.07406330108642578",WillsSampler,50,60,8,1,0.07406330109
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.1921238899230957",WillsSampler,50,60,8,11,0.1921238899
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.26776599884033203",WillsSampler,50,60,8,16,0.2677659988
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.305988073348999",WillsSampler,50,60,8,21,0.3059880733
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.42538022994995117",WillsSampler,50,60,8,31,0.4253802299
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 0.5728240013122559",WillsSampler,50,60,8,41,0.5728240013
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 0.7717688083648682",WillsSampler,50,60,8,51,0.7717688084
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.11944794654846191",WillsSampler,50,60,8,6,0.1194479465
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=8.'] time: 0.12610888481140137",WillsSampler,50,60,8,0,0.1261088848
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.06847310066223145",WillsSampler,50,60,16,1,0.06847310066
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.18451309204101562",WillsSampler,50,60,16,11,0.184513092
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.41295528411865234",WillsSampler,50,60,16,16,0.4129552841
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.3914339542388916",WillsSampler,50,60,16,21,0.3914339542
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.5368759632110596",WillsSampler,50,60,16,31,0.5368759632
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 0.654364824295044",WillsSampler,50,60,16,41,0.6543648243
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 0.7939009666442871",WillsSampler,50,60,16,51,0.7939009666
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.14720416069030762",WillsSampler,50,60,16,6,0.1472041607
+"WillsSampler.w=50.['sample_size=60.', 'parallel_count=16.'] time: 0.11101913452148438",WillsSampler,50,60,16,0,0.1110191345
+VaasInterchangeHopping_Sampler.w=50.['sample_size=30.'] time: 0.7135839462280273,Ideal Sampler,50,30,0,0,0.7135839462
+VaasInterchangeHopping_Sampler.w=50.['sample_size=40.'] time: 0.8003509044647217,Ideal Sampler,50,40,0,0,0.8003509045
+VaasInterchangeHopping_Sampler.w=50.['sample_size=60.'] time: 0.7703988552093506,Ideal Sampler,50,60,0,0,0.7703988552
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.09104776382446289",WillsSampler,100,30,1,1,0.09104776382
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.37352776527404785",WillsSampler,100,30,1,11,0.3735277653
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.4548969268798828",WillsSampler,100,30,1,16,0.4548969269
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.6088910102844238",WillsSampler,100,30,1,21,0.6088910103
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.001065969467163",WillsSampler,100,30,1,31,1.001065969
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.2619452476501465",WillsSampler,100,30,1,41,1.261945248
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.507796049118042",WillsSampler,100,30,1,51,1.507796049
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.25489377975463867",WillsSampler,100,30,1,6,0.2548937798
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=1.'] time: 1.5274932384490967",WillsSampler,100,30,1,0,1.527493238
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09458780288696289",WillsSampler,100,30,2,1,0.09458780289
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3915061950683594",WillsSampler,100,30,2,11,0.3915061951
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.5116188526153564",WillsSampler,100,30,2,16,0.5116188526
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.643740177154541",WillsSampler,100,30,2,21,0.6437401772
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.9791979789733887",WillsSampler,100,30,2,31,0.979197979
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.2315001487731934",WillsSampler,100,30,2,41,1.231500149
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.482666015625",WillsSampler,100,30,2,51,1.482666016
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.245741605758667",WillsSampler,100,30,2,6,0.2457416058
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=2.'] time: 1.3034889698028564",WillsSampler,100,30,2,0,1.30348897
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.09842371940612793",WillsSampler,100,30,4,1,0.09842371941
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.39815807342529297",WillsSampler,100,30,4,11,0.3981580734
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.4873631000518799",WillsSampler,100,30,4,16,0.4873631001
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.7030391693115234",WillsSampler,100,30,4,21,0.7030391693
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.8772459030151367",WillsSampler,100,30,4,31,0.877245903
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.1023218631744385",WillsSampler,100,30,4,41,1.102321863
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.6061558723449707",WillsSampler,100,30,4,51,1.606155872
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.2429370880126953",WillsSampler,100,30,4,6,0.242937088
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=4.'] time: 0.9279956817626953",WillsSampler,100,30,4,0,0.9279956818
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.0955207347869873",WillsSampler,100,30,8,1,0.09552073479
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.3991889953613281",WillsSampler,100,30,8,11,0.3991889954
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.5659058094024658",WillsSampler,100,30,8,16,0.5659058094
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.6061639785766602",WillsSampler,100,30,8,21,0.6061639786
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.8585259914398193",WillsSampler,100,30,8,31,0.8585259914
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.1565361022949219",WillsSampler,100,30,8,41,1.156536102
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.5017311573028564",WillsSampler,100,30,8,51,1.501731157
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1912379264831543",WillsSampler,100,30,8,6,0.1912379265
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=8.'] time: 0.3195018768310547",WillsSampler,100,30,8,0,0.3195018768
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1601569652557373",WillsSampler,100,30,16,1,0.1601569653
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.32333898544311523",WillsSampler,100,30,16,11,0.3233389854
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.6226859092712402",WillsSampler,100,30,16,16,0.6226859093
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.8458712100982666",WillsSampler,100,30,16,21,0.8458712101
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.8981199264526367",WillsSampler,100,30,16,31,0.8981199265
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.1372249126434326",WillsSampler,100,30,16,41,1.137224913
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.3463048934936523",WillsSampler,100,30,16,51,1.346304893
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.32668614387512207",WillsSampler,100,30,16,6,0.3266861439
+"WillsSampler.w=100.['sample_size=30.', 'parallel_count=16.'] time: 0.2078721523284912",WillsSampler,100,30,16,0,0.2078721523
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07549285888671875",WillsSampler,100,40,1,1,0.07549285889
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.3254852294921875",WillsSampler,100,40,1,11,0.3254852295
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.4238290786743164",WillsSampler,100,40,1,16,0.4238290787
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.545403003692627",WillsSampler,100,40,1,21,0.5454030037
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.7809243202209473",WillsSampler,100,40,1,31,0.7809243202
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.659182071685791",WillsSampler,100,40,1,41,1.659182072
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.2436621189117432",WillsSampler,100,40,1,51,1.243662119
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.27240800857543945",WillsSampler,100,40,1,6,0.2724080086
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=1.'] time: 1.995516061782837",WillsSampler,100,40,1,0,1.995516062
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.10056591033935547",WillsSampler,100,40,2,1,0.1005659103
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.3447558879852295",WillsSampler,100,40,2,11,0.344755888
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.4954547882080078",WillsSampler,100,40,2,16,0.4954547882
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.5638349056243896",WillsSampler,100,40,2,21,0.5638349056
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.9680449962615967",WillsSampler,100,40,2,31,0.9680449963
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.141601800918579",WillsSampler,100,40,2,41,1.141601801
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.2959020137786865",WillsSampler,100,40,2,51,1.295902014
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.3331587314605713",WillsSampler,100,40,2,6,0.3331587315
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=2.'] time: 1.3508789539337158",WillsSampler,100,40,2,0,1.350878954
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.10861706733703613",WillsSampler,100,40,4,1,0.1086170673
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.3814961910247803",WillsSampler,100,40,4,11,0.381496191
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.461514949798584",WillsSampler,100,40,4,16,0.4615149498
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.7109987735748291",WillsSampler,100,40,4,21,0.7109987736
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.9322781562805176",WillsSampler,100,40,4,31,0.9322781563
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.2984089851379395",WillsSampler,100,40,4,41,1.298408985
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.5621991157531738",WillsSampler,100,40,4,51,1.562199116
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.24369096755981445",WillsSampler,100,40,4,6,0.2436909676
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=4.'] time: 0.7333419322967529",WillsSampler,100,40,4,0,0.7333419323
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.1209108829498291",WillsSampler,100,40,8,1,0.1209108829
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.38816213607788086",WillsSampler,100,40,8,11,0.3881621361
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.5607089996337891",WillsSampler,100,40,8,16,0.5607089996
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.6587800979614258",WillsSampler,100,40,8,21,0.658780098
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.0138309001922607",WillsSampler,100,40,8,31,1.0138309
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.2803659439086914",WillsSampler,100,40,8,41,1.280365944
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.473848819732666",WillsSampler,100,40,8,51,1.47384882
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2385578155517578",WillsSampler,100,40,8,6,0.2385578156
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=8.'] time: 0.2714579105377197",WillsSampler,100,40,8,0,0.2714579105
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.10310220718383789",WillsSampler,100,40,16,1,0.1031022072
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.3245108127593994",WillsSampler,100,40,16,11,0.3245108128
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.47608137130737305",WillsSampler,100,40,16,16,0.4760813713
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.7720870971679688",WillsSampler,100,40,16,21,0.7720870972
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.3525328636169434",WillsSampler,100,40,16,31,1.352532864
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.0624828338623047",WillsSampler,100,40,16,41,1.062482834
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.4885609149932861",WillsSampler,100,40,16,51,1.488560915
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.21056008338928223",WillsSampler,100,40,16,6,0.2105600834
+"WillsSampler.w=100.['sample_size=40.', 'parallel_count=16.'] time: 0.3257942199707031",WillsSampler,100,40,16,0,0.32579422
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.07902693748474121",WillsSampler,100,60,1,1,0.07902693748
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.42322564125061035",WillsSampler,100,60,1,11,0.4232256413
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6620368957519531",WillsSampler,100,60,1,16,0.6620368958
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.5751280784606934",WillsSampler,100,60,1,21,0.5751280785
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 0.9836790561676025",WillsSampler,100,60,1,31,0.9836790562
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.0240590572357178",WillsSampler,100,60,1,41,1.024059057
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.2378711700439453",WillsSampler,100,60,1,51,1.23787117
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.19473624229431152",WillsSampler,100,60,1,6,0.1947362423
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=1.'] time: 2.010277271270752",WillsSampler,100,60,1,0,2.010277271
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.0791621208190918",WillsSampler,100,60,2,1,0.07916212082
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.33693885803222656",WillsSampler,100,60,2,11,0.336938858
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.44202232360839844",WillsSampler,100,60,2,16,0.4420223236
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.5572810173034668",WillsSampler,100,60,2,21,0.5572810173
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 0.8082931041717529",WillsSampler,100,60,2,31,0.8082931042
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.0764837265014648",WillsSampler,100,60,2,41,1.076483727
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.3680531978607178",WillsSampler,100,60,2,51,1.368053198
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.2393169403076172",WillsSampler,100,60,2,6,0.2393169403
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=2.'] time: 1.1357109546661377",WillsSampler,100,60,2,0,1.135710955
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.08005094528198242",WillsSampler,100,60,4,1,0.08005094528
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.31149888038635254",WillsSampler,100,60,4,11,0.3114988804
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.4332468509674072",WillsSampler,100,60,4,16,0.433246851
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.5508618354797363",WillsSampler,100,60,4,21,0.5508618355
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 0.9497461318969727",WillsSampler,100,60,4,31,0.9497461319
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.0476698875427246",WillsSampler,100,60,4,41,1.047669888
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.36285400390625",WillsSampler,100,60,4,51,1.362854004
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.21599793434143066",WillsSampler,100,60,4,6,0.2159979343
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=4.'] time: 0.4611337184906006",WillsSampler,100,60,4,0,0.4611337185
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.08025383949279785",WillsSampler,100,60,8,1,0.08025383949
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.3132307529449463",WillsSampler,100,60,8,11,0.3132307529
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.42710185050964355",WillsSampler,100,60,8,16,0.4271018505
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.5920131206512451",WillsSampler,100,60,8,21,0.5920131207
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 0.8140921592712402",WillsSampler,100,60,8,31,0.8140921593
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.0668401718139648",WillsSampler,100,60,8,41,1.066840172
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.3657171726226807",WillsSampler,100,60,8,51,1.365717173
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.1945021152496338",WillsSampler,100,60,8,6,0.1945021152
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=8.'] time: 0.2697601318359375",WillsSampler,100,60,8,0,0.2697601318
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.10051417350769043",WillsSampler,100,60,16,1,0.1005141735
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.31476569175720215",WillsSampler,100,60,16,11,0.3147656918
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.4349179267883301",WillsSampler,100,60,16,16,0.4349179268
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.639014720916748",WillsSampler,100,60,16,21,0.6390147209
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 0.872776985168457",WillsSampler,100,60,16,31,0.8727769852
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.0998048782348633",WillsSampler,100,60,16,41,1.099804878
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.2500770092010498",WillsSampler,100,60,16,51,1.250077009
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.1968839168548584",WillsSampler,100,60,16,6,0.1968839169
+"WillsSampler.w=100.['sample_size=60.', 'parallel_count=16.'] time: 0.16814517974853516",WillsSampler,100,60,16,0,0.1681451797
+VaasInterchangeHopping_Sampler.w=100.['sample_size=30.'] time: 1.2427537441253662,Ideal Sampler,100,30,0,0,1.242753744
+VaasInterchangeHopping_Sampler.w=100.['sample_size=40.'] time: 1.5989513397216797,Ideal Sampler,100,40,0,0,1.59895134
+VaasInterchangeHopping_Sampler.w=100.['sample_size=60.'] time: 2.0464980602264404,Ideal Sampler,100,60,0,0,2.04649806
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.10527205467224121",WillsSampler,150,30,1,1,0.1052720547
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.41925716400146484",WillsSampler,150,30,1,11,0.419257164
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.5930740833282471",WillsSampler,150,30,1,16,0.5930740833
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8330121040344238",WillsSampler,150,30,1,21,0.833012104
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1208703517913818",WillsSampler,150,30,1,31,1.120870352
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.4495720863342285",WillsSampler,150,30,1,41,1.449572086
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 1.8280689716339111",WillsSampler,150,30,1,51,1.828068972
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.30513691902160645",WillsSampler,150,30,1,6,0.305136919
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=1.'] time: 1.9621009826660156",WillsSampler,150,30,1,0,1.962100983
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09637093544006348",WillsSampler,150,30,2,1,0.09637093544
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.4891242980957031",WillsSampler,150,30,2,11,0.4891242981
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.6376650333404541",WillsSampler,150,30,2,16,0.6376650333
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8233659267425537",WillsSampler,150,30,2,21,0.8233659267
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.191770076751709",WillsSampler,150,30,2,31,1.191770077
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.544388771057129",WillsSampler,150,30,2,41,1.544388771
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9272708892822266",WillsSampler,150,30,2,51,1.927270889
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.29971790313720703",WillsSampler,150,30,2,6,0.2997179031
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=2.'] time: 1.8095498085021973",WillsSampler,150,30,2,0,1.809549809
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.09621119499206543",WillsSampler,150,30,4,1,0.09621119499
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.47625184059143066",WillsSampler,150,30,4,11,0.4762518406
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6343538761138916",WillsSampler,150,30,4,16,0.6343538761
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.8077497482299805",WillsSampler,150,30,4,21,0.8077497482
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.1400518417358398",WillsSampler,150,30,4,31,1.140051842
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.5339956283569336",WillsSampler,150,30,4,41,1.533995628
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 1.8699231147766113",WillsSampler,150,30,4,51,1.869923115
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.27744317054748535",WillsSampler,150,30,4,6,0.2774431705
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=4.'] time: 1.2929878234863281",WillsSampler,150,30,4,0,1.292987823
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.09942507743835449",WillsSampler,150,30,8,1,0.09942507744
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.45220518112182617",WillsSampler,150,30,8,11,0.4522051811
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.9171466827392578",WillsSampler,150,30,8,16,0.9171466827
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.8302409648895264",WillsSampler,150,30,8,21,0.8302409649
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.291327953338623",WillsSampler,150,30,8,31,1.291327953
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.706071138381958",WillsSampler,150,30,8,41,1.706071138
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.9522662162780762",WillsSampler,150,30,8,51,1.952266216
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2823657989501953",WillsSampler,150,30,8,6,0.282365799
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=8.'] time: 0.5993101596832275",WillsSampler,150,30,8,0,0.5993101597
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.11335515975952148",WillsSampler,150,30,16,1,0.1133551598
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5731892585754395",WillsSampler,150,30,16,11,0.5731892586
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.7144570350646973",WillsSampler,150,30,16,16,0.7144570351
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.864300012588501",WillsSampler,150,30,16,21,0.8643000126
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.1581189632415771",WillsSampler,150,30,16,31,1.158118963
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.476208209991455",WillsSampler,150,30,16,41,1.47620821
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.024724245071411",WillsSampler,150,30,16,51,2.024724245
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.26942896842956543",WillsSampler,150,30,16,6,0.2694289684
+"WillsSampler.w=150.['sample_size=30.', 'parallel_count=16.'] time: 0.30106091499328613",WillsSampler,150,30,16,0,0.301060915
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.0938417911529541",WillsSampler,150,40,1,1,0.09384179115
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.43068504333496094",WillsSampler,150,40,1,11,0.4306850433
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6247308254241943",WillsSampler,150,40,1,16,0.6247308254
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8767471313476562",WillsSampler,150,40,1,21,0.8767471313
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1726250648498535",WillsSampler,150,40,1,31,1.172625065
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.0539767742156982",WillsSampler,150,40,1,41,2.053976774
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.397196054458618",WillsSampler,150,40,1,51,2.397196054
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.2641751766204834",WillsSampler,150,40,1,6,0.2641751766
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=1.'] time: 2.989593982696533",WillsSampler,150,40,1,0,2.989593983
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.10996770858764648",WillsSampler,150,40,2,1,0.1099677086
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.47199010848999023",WillsSampler,150,40,2,11,0.4719901085
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.6385757923126221",WillsSampler,150,40,2,16,0.6385757923
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8267388343811035",WillsSampler,150,40,2,21,0.8267388344
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.2988789081573486",WillsSampler,150,40,2,31,1.298878908
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.75148606300354",WillsSampler,150,40,2,41,1.751486063
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9174232482910156",WillsSampler,150,40,2,51,1.917423248
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.36281323432922363",WillsSampler,150,40,2,6,0.3628132343
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=2.'] time: 2.4141478538513184",WillsSampler,150,40,2,0,2.414147854
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.12193679809570312",WillsSampler,150,40,4,1,0.1219367981
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.5960049629211426",WillsSampler,150,40,4,11,0.5960049629
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6393330097198486",WillsSampler,150,40,4,16,0.6393330097
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.8242301940917969",WillsSampler,150,40,4,21,0.8242301941
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.1870667934417725",WillsSampler,150,40,4,31,1.187066793
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.089566230773926",WillsSampler,150,40,4,41,2.089566231
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 2.0301449298858643",WillsSampler,150,40,4,51,2.03014493
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.28106689453125",WillsSampler,150,40,4,6,0.2810668945
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=4.'] time: 1.3861019611358643",WillsSampler,150,40,4,0,1.386101961
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.10217118263244629",WillsSampler,150,40,8,1,0.1021711826
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.4832921028137207",WillsSampler,150,40,8,11,0.4832921028
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.6198406219482422",WillsSampler,150,40,8,16,0.6198406219
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 0.989692211151123",WillsSampler,150,40,8,21,0.9896922112
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.1687359809875488",WillsSampler,150,40,8,31,1.168735981
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.654815912246704",WillsSampler,150,40,8,41,1.654815912
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 1.8905978202819824",WillsSampler,150,40,8,51,1.89059782
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.29301977157592773",WillsSampler,150,40,8,6,0.2930197716
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=8.'] time: 0.5226740837097168",WillsSampler,150,40,8,0,0.5226740837
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1109309196472168",WillsSampler,150,40,16,1,0.1109309196
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.4749870300292969",WillsSampler,150,40,16,11,0.47498703
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.6241888999938965",WillsSampler,150,40,16,16,0.6241889
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.1735029220581055",WillsSampler,150,40,16,21,1.173502922
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.3765850067138672",WillsSampler,150,40,16,31,1.376585007
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.5713610649108887",WillsSampler,150,40,16,41,1.571361065
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 1.9999327659606934",WillsSampler,150,40,16,51,1.999932766
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.26911497116088867",WillsSampler,150,40,16,6,0.2691149712
+"WillsSampler.w=150.['sample_size=40.', 'parallel_count=16.'] time: 0.4204120635986328",WillsSampler,150,40,16,0,0.4204120636
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.10060310363769531",WillsSampler,150,60,1,1,0.1006031036
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.4808340072631836",WillsSampler,150,60,1,11,0.4808340073
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.6640150547027588",WillsSampler,150,60,1,16,0.6640150547
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 0.8259718418121338",WillsSampler,150,60,1,21,0.8259718418
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.1985111236572266",WillsSampler,150,60,1,31,1.198511124
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.5631370544433594",WillsSampler,150,60,1,41,1.563137054
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.0180931091308594",WillsSampler,150,60,1,51,2.018093109
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.3174130916595459",WillsSampler,150,60,1,6,0.3174130917
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=1.'] time: 3.3984439373016357",WillsSampler,150,60,1,0,3.398443937
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.09428906440734863",WillsSampler,150,60,2,1,0.09428906441
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.5156712532043457",WillsSampler,150,60,2,11,0.5156712532
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.8447329998016357",WillsSampler,150,60,2,16,0.8447329998
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 0.8212320804595947",WillsSampler,150,60,2,21,0.8212320805
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.1906979084014893",WillsSampler,150,60,2,31,1.190697908
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 1.558985948562622",WillsSampler,150,60,2,41,1.558985949
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 1.9053378105163574",WillsSampler,150,60,2,51,1.905337811
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.2750570774078369",WillsSampler,150,60,2,6,0.2750570774
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=2.'] time: 2.9653379917144775",WillsSampler,150,60,2,0,2.965337992
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.22626209259033203",WillsSampler,150,60,4,1,0.2262620926
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.4642059803009033",WillsSampler,150,60,4,11,0.4642059803
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.6482701301574707",WillsSampler,150,60,4,16,0.6482701302
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 0.816115140914917",WillsSampler,150,60,4,21,0.8161151409
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.5799880027770996",WillsSampler,150,60,4,31,1.579988003
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 1.5595052242279053",WillsSampler,150,60,4,41,1.559505224
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.1281089782714844",WillsSampler,150,60,4,51,3.128108978
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.2779240608215332",WillsSampler,150,60,4,6,0.2779240608
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=4.'] time: 1.4125750064849854",WillsSampler,150,60,4,0,1.412575006
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.1810622215270996",WillsSampler,150,60,8,1,0.1810622215
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.6569600105285645",WillsSampler,150,60,8,11,0.6569600105
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.7763888835906982",WillsSampler,150,60,8,16,0.7763888836
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.1079599857330322",WillsSampler,150,60,8,21,1.107959986
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.376528024673462",WillsSampler,150,60,8,31,1.376528025
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.565737009048462",WillsSampler,150,60,8,41,1.565737009
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.2931811809539795",WillsSampler,150,60,8,51,2.293181181
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.2960679531097412",WillsSampler,150,60,8,6,0.2960679531
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=8.'] time: 0.5236780643463135",WillsSampler,150,60,8,0,0.5236780643
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.16939306259155273",WillsSampler,150,60,16,1,0.1693930626
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.47368597984313965",WillsSampler,150,60,16,11,0.4736859798
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.7763597965240479",WillsSampler,150,60,16,16,0.7763597965
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 0.9916973114013672",WillsSampler,150,60,16,21,0.9916973114
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.1674559116363525",WillsSampler,150,60,16,31,1.167455912
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 1.5239112377166748",WillsSampler,150,60,16,41,1.523911238
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.0492100715637207",WillsSampler,150,60,16,51,2.049210072
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.2777390480041504",WillsSampler,150,60,16,6,0.277739048
+"WillsSampler.w=150.['sample_size=60.', 'parallel_count=16.'] time: 0.31032228469848633",WillsSampler,150,60,16,0,0.3103222847
+VaasInterchangeHopping_Sampler.w=150.['sample_size=30.'] time: 1.9932799339294434,Ideal Sampler,150,30,0,0,1.993279934
+VaasInterchangeHopping_Sampler.w=150.['sample_size=40.'] time: 2.4420950412750244,Ideal Sampler,150,40,0,0,2.442095041
+VaasInterchangeHopping_Sampler.w=150.['sample_size=60.'] time: 3.892446994781494,Ideal Sampler,150,60,0,0,3.892446995
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.14661598205566406",WillsSampler,200,30,1,1,0.1466159821
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5910718441009521",WillsSampler,200,30,1,11,0.5910718441
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7827978134155273",WillsSampler,200,30,1,16,0.7827978134
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.1134369373321533",WillsSampler,200,30,1,21,1.113436937
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.4807767868041992",WillsSampler,200,30,1,31,1.480776787
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.8914790153503418",WillsSampler,200,30,1,41,1.891479015
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.049633026123047",WillsSampler,200,30,1,51,3.049633026
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.4593052864074707",WillsSampler,200,30,1,6,0.4593052864
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=1.'] time: 3.313783884048462",WillsSampler,200,30,1,0,3.313783884
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.2354271411895752",WillsSampler,200,30,2,1,0.2354271412
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.6889762878417969",WillsSampler,200,30,2,11,0.6889762878
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.0261049270629883",WillsSampler,200,30,2,16,1.026104927
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.3031671047210693",WillsSampler,200,30,2,21,1.303167105
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.6168839931488037",WillsSampler,200,30,2,31,1.616883993
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.1372721195220947",WillsSampler,200,30,2,41,2.13727212
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.030492067337036",WillsSampler,200,30,2,51,3.030492067
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.4044461250305176",WillsSampler,200,30,2,6,0.404446125
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=2.'] time: 2.8349521160125732",WillsSampler,200,30,2,0,2.834952116
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17430496215820312",WillsSampler,200,30,4,1,0.1743049622
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6835591793060303",WillsSampler,200,30,4,11,0.6835591793
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.9981048107147217",WillsSampler,200,30,4,16,0.9981048107
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.1310019493103027",WillsSampler,200,30,4,21,1.131001949
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.1982429027557373",WillsSampler,200,30,4,31,2.198242903
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.1340749263763428",WillsSampler,200,30,4,41,2.134074926
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.1708171367645264",WillsSampler,200,30,4,51,3.170817137
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.342479944229126",WillsSampler,200,30,4,6,0.3424799442
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=4.'] time: 2.733206033706665",WillsSampler,200,30,4,0,2.733206034
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.11876392364501953",WillsSampler,200,30,8,1,0.1187639236
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.6114041805267334",WillsSampler,200,30,8,11,0.6114041805
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.0506699085235596",WillsSampler,200,30,8,16,1.050669909
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.4445538520812988",WillsSampler,200,30,8,21,1.444553852
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.7094252109527588",WillsSampler,200,30,8,31,1.709425211
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.544787883758545",WillsSampler,200,30,8,41,2.544787884
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.799881935119629",WillsSampler,200,30,8,51,2.799881935
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5441060066223145",WillsSampler,200,30,8,6,0.5441060066
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=8.'] time: 1.1895971298217773",WillsSampler,200,30,8,0,1.18959713
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.14088988304138184",WillsSampler,200,30,16,1,0.140889883
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5858438014984131",WillsSampler,200,30,16,11,0.5858438015
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8163201808929443",WillsSampler,200,30,16,16,0.8163201809
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.3606998920440674",WillsSampler,200,30,16,21,1.360699892
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.5416996479034424",WillsSampler,200,30,16,31,1.541699648
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.13828706741333",WillsSampler,200,30,16,41,2.138287067
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.596349000930786",WillsSampler,200,30,16,51,2.596349001
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.37921786308288574",WillsSampler,200,30,16,6,0.3792178631
+"WillsSampler.w=200.['sample_size=30.', 'parallel_count=16.'] time: 0.4882240295410156",WillsSampler,200,30,16,0,0.4882240295
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.11756086349487305",WillsSampler,200,40,1,1,0.1175608635
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5649099349975586",WillsSampler,200,40,1,11,0.564909935
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7771162986755371",WillsSampler,200,40,1,16,0.7771162987
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.0421948432922363",WillsSampler,200,40,1,21,1.042194843
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.702868938446045",WillsSampler,200,40,1,31,1.702868938
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.495864152908325",WillsSampler,200,40,1,41,2.495864153
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.050363779067993",WillsSampler,200,40,1,51,3.050363779
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.3415050506591797",WillsSampler,200,40,1,6,0.3415050507
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=1.'] time: 3.9353787899017334",WillsSampler,200,40,1,0,3.93537879
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.14402461051940918",WillsSampler,200,40,2,1,0.1440246105
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.6022799015045166",WillsSampler,200,40,2,11,0.6022799015
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.9013080596923828",WillsSampler,200,40,2,16,0.9013080597
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.1888179779052734",WillsSampler,200,40,2,21,1.188817978
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.6729159355163574",WillsSampler,200,40,2,31,1.672915936
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.0485198497772217",WillsSampler,200,40,2,41,2.04851985
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 2.572299003601074",WillsSampler,200,40,2,51,2.572299004
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.35242605209350586",WillsSampler,200,40,2,6,0.3524260521
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=2.'] time: 3.4187428951263428",WillsSampler,200,40,2,0,3.418742895
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.10988378524780273",WillsSampler,200,40,4,1,0.1098837852
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6043078899383545",WillsSampler,200,40,4,11,0.6043078899
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.868340015411377",WillsSampler,200,40,4,16,0.8683400154
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.0709702968597412",WillsSampler,200,40,4,21,1.070970297
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.5414009094238281",WillsSampler,200,40,4,31,1.541400909
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.0035502910614014",WillsSampler,200,40,4,41,2.003550291
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 2.6358063220977783",WillsSampler,200,40,4,51,2.635806322
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.35601115226745605",WillsSampler,200,40,4,6,0.3560111523
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=4.'] time: 2.3253390789031982",WillsSampler,200,40,4,0,2.325339079
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.13730192184448242",WillsSampler,200,40,8,1,0.1373019218
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.5862691402435303",WillsSampler,200,40,8,11,0.5862691402
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.8215210437774658",WillsSampler,200,40,8,16,0.8215210438
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.0959060192108154",WillsSampler,200,40,8,21,1.095906019
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.5126559734344482",WillsSampler,200,40,8,31,1.512655973
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.0671098232269287",WillsSampler,200,40,8,41,2.067109823
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.712603807449341",WillsSampler,200,40,8,51,2.712603807
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.34691309928894043",WillsSampler,200,40,8,6,0.3469130993
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=8.'] time: 0.8809008598327637",WillsSampler,200,40,8,0,0.8809008598
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.13635015487670898",WillsSampler,200,40,16,1,0.1363501549
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.564561128616333",WillsSampler,200,40,16,11,0.5645611286
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8154828548431396",WillsSampler,200,40,16,16,0.8154828548
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.044449806213379",WillsSampler,200,40,16,21,1.044449806
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.4987170696258545",WillsSampler,200,40,16,31,1.49871707
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.00770902633667",WillsSampler,200,40,16,41,2.007709026
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 2.453963041305542",WillsSampler,200,40,16,51,2.453963041
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.3540530204772949",WillsSampler,200,40,16,6,0.3540530205
+"WillsSampler.w=200.['sample_size=40.', 'parallel_count=16.'] time: 0.4680500030517578",WillsSampler,200,40,16,0,0.4680500031
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.11960697174072266",WillsSampler,200,60,1,1,0.1196069717
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.5556826591491699",WillsSampler,200,60,1,11,0.5556826591
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 0.7917819023132324",WillsSampler,200,60,1,16,0.7917819023
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.0034689903259277",WillsSampler,200,60,1,21,1.00346899
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 1.515152931213379",WillsSampler,200,60,1,31,1.515152931
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 1.8910739421844482",WillsSampler,200,60,1,41,1.891073942
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 2.4403159618377686",WillsSampler,200,60,1,51,2.440315962
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.33493900299072266",WillsSampler,200,60,1,6,0.334939003
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=1.'] time: 5.088656187057495",WillsSampler,200,60,1,0,5.088656187
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.11610198020935059",WillsSampler,200,60,2,1,0.1161019802
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.5878908634185791",WillsSampler,200,60,2,11,0.5878908634
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 0.8169770240783691",WillsSampler,200,60,2,16,0.8169770241
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.064605951309204",WillsSampler,200,60,2,21,1.064605951
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 1.5411372184753418",WillsSampler,200,60,2,31,1.541137218
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.1815381050109863",WillsSampler,200,60,2,41,2.181538105
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 2.7455861568450928",WillsSampler,200,60,2,51,2.745586157
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.34517383575439453",WillsSampler,200,60,2,6,0.3451738358
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=2.'] time: 4.428612947463989",WillsSampler,200,60,2,0,4.428612947
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2064671516418457",WillsSampler,200,60,4,1,0.2064671516
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.6096458435058594",WillsSampler,200,60,4,11,0.6096458435
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 0.8100769519805908",WillsSampler,200,60,4,16,0.810076952
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.0690093040466309",WillsSampler,200,60,4,21,1.069009304
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 1.639611005783081",WillsSampler,200,60,4,31,1.639611006
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.0234169960021973",WillsSampler,200,60,4,41,2.023416996
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.050312042236328",WillsSampler,200,60,4,51,3.050312042
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.3901841640472412",WillsSampler,200,60,4,6,0.390184164
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=4.'] time: 2.298034906387329",WillsSampler,200,60,4,0,2.298034906
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.13241291046142578",WillsSampler,200,60,8,1,0.1324129105
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.5812201499938965",WillsSampler,200,60,8,11,0.58122015
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 0.802908182144165",WillsSampler,200,60,8,16,0.8029081821
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5473699569702148",WillsSampler,200,60,8,21,1.547369957
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 1.611440896987915",WillsSampler,200,60,8,31,1.611440897
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 1.9887590408325195",WillsSampler,200,60,8,41,1.988759041
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 2.4532651901245117",WillsSampler,200,60,8,51,2.45326519
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.3555338382720947",WillsSampler,200,60,8,6,0.3555338383
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=8.'] time: 0.8349587917327881",WillsSampler,200,60,8,0,0.8349587917
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1382598876953125",WillsSampler,200,60,16,1,0.1382598877
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.5660548210144043",WillsSampler,200,60,16,11,0.566054821
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 0.8165271282196045",WillsSampler,200,60,16,16,0.8165271282
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.1080429553985596",WillsSampler,200,60,16,21,1.108042955
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 1.5869140625",WillsSampler,200,60,16,31,1.586914063
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 2.3570470809936523",WillsSampler,200,60,16,41,2.357047081
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.0440680980682373",WillsSampler,200,60,16,51,3.044068098
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.3415560722351074",WillsSampler,200,60,16,6,0.3415560722
+"WillsSampler.w=200.['sample_size=60.', 'parallel_count=16.'] time: 0.46961522102355957",WillsSampler,200,60,16,0,0.469615221
+VaasInterchangeHopping_Sampler.w=200.['sample_size=30.'] time: 2.663788080215454,Ideal Sampler,200,30,0,0,2.66378808
+VaasInterchangeHopping_Sampler.w=200.['sample_size=40.'] time: 3.6661970615386963,Ideal Sampler,200,40,0,0,3.666197062
+VaasInterchangeHopping_Sampler.w=200.['sample_size=60.'] time: 5.7503883838653564,Ideal Sampler,200,60,0,0,5.750388384
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.16601991653442383",WillsSampler,300,30,1,1,0.1660199165
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.009401798248291",WillsSampler,300,30,1,11,1.009401798
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.2023050785064697",WillsSampler,300,30,1,16,1.202305079
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.9223921298980713",WillsSampler,300,30,1,21,1.92239213
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.3728370666503906",WillsSampler,300,30,1,31,2.372837067
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.9871842861175537",WillsSampler,300,30,1,41,2.987184286
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.174577236175537",WillsSampler,300,30,1,51,5.174577236
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.5266468524932861",WillsSampler,300,30,1,6,0.5266468525
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=1.'] time: 4.561549186706543",WillsSampler,300,30,1,0,4.561549187
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21664786338806152",WillsSampler,300,30,2,1,0.2166478634
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.8732171058654785",WillsSampler,300,30,2,11,0.8732171059
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.2187590599060059",WillsSampler,300,30,2,16,1.21875906
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.6038591861724854",WillsSampler,300,30,2,21,1.603859186
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.2709341049194336",WillsSampler,300,30,2,31,2.270934105
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.040215015411377",WillsSampler,300,30,2,41,3.040215015
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.8016977310180664",WillsSampler,300,30,2,51,3.801697731
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.505821943283081",WillsSampler,300,30,2,6,0.5058219433
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=2.'] time: 4.035606145858765",WillsSampler,300,30,2,0,4.035606146
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.20113801956176758",WillsSampler,300,30,4,1,0.2011380196
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.9054009914398193",WillsSampler,300,30,4,11,0.9054009914
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.2968831062316895",WillsSampler,300,30,4,16,1.296883106
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.580099105834961",WillsSampler,300,30,4,21,1.580099106
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.282431125640869",WillsSampler,300,30,4,31,2.282431126
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.9939441680908203",WillsSampler,300,30,4,41,2.993944168
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.695572853088379",WillsSampler,300,30,4,51,3.695572853
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.5764873027801514",WillsSampler,300,30,4,6,0.5764873028
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=4.'] time: 3.5027248859405518",WillsSampler,300,30,4,0,3.502724886
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.15011096000671387",WillsSampler,300,30,8,1,0.15011096
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.8610069751739502",WillsSampler,300,30,8,11,0.8610069752
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.2130470275878906",WillsSampler,300,30,8,16,1.213047028
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5471031665802002",WillsSampler,300,30,8,21,1.547103167
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.2922468185424805",WillsSampler,300,30,8,31,2.292246819
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.9036049842834473",WillsSampler,300,30,8,41,2.903604984
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 3.6844160556793213",WillsSampler,300,30,8,51,3.684416056
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5011250972747803",WillsSampler,300,30,8,6,0.5011250973
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=8.'] time: 2.4776837825775146",WillsSampler,300,30,8,0,2.477683783
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.1693871021270752",WillsSampler,300,30,16,1,0.1693871021
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.8523199558258057",WillsSampler,300,30,16,11,0.8523199558
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.2057099342346191",WillsSampler,300,30,16,16,1.205709934
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.6452720165252686",WillsSampler,300,30,16,21,1.645272017
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.8950741291046143",WillsSampler,300,30,16,31,2.895074129
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.2130370140075684",WillsSampler,300,30,16,41,3.213037014
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.733983039855957",WillsSampler,300,30,16,51,3.73398304
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.4808492660522461",WillsSampler,300,30,16,6,0.4808492661
+"WillsSampler.w=300.['sample_size=30.', 'parallel_count=16.'] time: 0.9990100860595703",WillsSampler,300,30,16,0,0.9990100861
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.14548397064208984",WillsSampler,300,40,1,1,0.1454839706
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.8169169425964355",WillsSampler,300,40,1,11,0.8169169426
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.1419310569763184",WillsSampler,300,40,1,16,1.141931057
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.432844638824463",WillsSampler,300,40,1,21,1.432844639
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.1924469470977783",WillsSampler,300,40,1,31,2.192446947
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 2.80683970451355",WillsSampler,300,40,1,41,2.806839705
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.5428390502929688",WillsSampler,300,40,1,51,3.54283905
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.4740757942199707",WillsSampler,300,40,1,6,0.4740757942
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=1.'] time: 5.005042314529419",WillsSampler,300,40,1,0,5.005042315
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.163543701171875",WillsSampler,300,40,2,1,0.1635437012
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 0.848365068435669",WillsSampler,300,40,2,11,0.8483650684
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.2074368000030518",WillsSampler,300,40,2,16,1.2074368
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.5315642356872559",WillsSampler,300,40,2,21,1.531564236
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.2499961853027344",WillsSampler,300,40,2,31,2.249996185
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 2.9776768684387207",WillsSampler,300,40,2,41,2.977676868
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.6697049140930176",WillsSampler,300,40,2,51,3.669704914
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.5117979049682617",WillsSampler,300,40,2,6,0.511797905
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=2.'] time: 5.029376029968262",WillsSampler,300,40,2,0,5.02937603
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.15431809425354004",WillsSampler,300,40,4,1,0.1543180943
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 0.8423969745635986",WillsSampler,300,40,4,11,0.8423969746
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.1884057521820068",WillsSampler,300,40,4,16,1.188405752
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.5226969718933105",WillsSampler,300,40,4,21,1.522696972
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.186068296432495",WillsSampler,300,40,4,31,2.186068296
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 2.8831167221069336",WillsSampler,300,40,4,41,2.883116722
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 3.5454180240631104",WillsSampler,300,40,4,51,3.545418024
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.49152493476867676",WillsSampler,300,40,4,6,0.4915249348
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=4.'] time: 4.004730939865112",WillsSampler,300,40,4,0,4.00473094
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.15409493446350098",WillsSampler,300,40,8,1,0.1540949345
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.8358597755432129",WillsSampler,300,40,8,11,0.8358597755
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.1982989311218262",WillsSampler,300,40,8,16,1.198298931
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.7124857902526855",WillsSampler,300,40,8,21,1.71248579
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.2871618270874023",WillsSampler,300,40,8,31,2.287161827
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 2.9398889541625977",WillsSampler,300,40,8,41,2.939888954
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 3.928394079208374",WillsSampler,300,40,8,51,3.928394079
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5713248252868652",WillsSampler,300,40,8,6,0.5713248253
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=8.'] time: 2.605264902114868",WillsSampler,300,40,8,0,2.605264902
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.27438998222351074",WillsSampler,300,40,16,1,0.2743899822
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.888869047164917",WillsSampler,300,40,16,11,0.8888690472
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.2315089702606201",WillsSampler,300,40,16,16,1.23150897
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9551019668579102",WillsSampler,300,40,16,21,1.955101967
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.2743260860443115",WillsSampler,300,40,16,31,2.274326086
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.1680848598480225",WillsSampler,300,40,16,41,3.16808486
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 3.921081066131592",WillsSampler,300,40,16,51,3.921081066
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.4994230270385742",WillsSampler,300,40,16,6,0.499423027
+"WillsSampler.w=300.['sample_size=40.', 'parallel_count=16.'] time: 1.037053108215332",WillsSampler,300,40,16,0,1.037053108
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.15226006507873535",WillsSampler,300,60,1,1,0.1522600651
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 0.8611242771148682",WillsSampler,300,60,1,11,0.8611242771
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.1812589168548584",WillsSampler,300,60,1,16,1.181258917
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.6118621826171875",WillsSampler,300,60,1,21,1.611862183
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.654806613922119",WillsSampler,300,60,1,31,2.654806614
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 3.1205310821533203",WillsSampler,300,60,1,41,3.120531082
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 3.784881830215454",WillsSampler,300,60,1,51,3.78488183
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.49671006202697754",WillsSampler,300,60,1,6,0.496710062
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=1.'] time: 8.174214839935303",WillsSampler,300,60,1,0,8.17421484
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.15930485725402832",WillsSampler,300,60,2,1,0.1593048573
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.1737730503082275",WillsSampler,300,60,2,11,1.17377305
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.3267521858215332",WillsSampler,300,60,2,16,1.326752186
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.6633648872375488",WillsSampler,300,60,2,21,1.663364887
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.5763089656829834",WillsSampler,300,60,2,31,2.576308966
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.7076971530914307",WillsSampler,300,60,2,41,3.707697153
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 3.909895181655884",WillsSampler,300,60,2,51,3.909895182
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.5189487934112549",WillsSampler,300,60,2,6,0.5189487934
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=2.'] time: 8.512738227844238",WillsSampler,300,60,2,0,8.512738228
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.33467578887939453",WillsSampler,300,60,4,1,0.3346757889
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.1207408905029297",WillsSampler,300,60,4,11,1.120740891
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.2060878276824951",WillsSampler,300,60,4,16,1.206087828
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 1.5766708850860596",WillsSampler,300,60,4,21,1.576670885
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 2.4753811359405518",WillsSampler,300,60,4,31,2.475381136
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.208577871322632",WillsSampler,300,60,4,41,3.208577871
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 4.102230072021484",WillsSampler,300,60,4,51,4.102230072
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.5840659141540527",WillsSampler,300,60,4,6,0.5840659142
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=4.'] time: 5.456568717956543",WillsSampler,300,60,4,0,5.456568718
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.17511582374572754",WillsSampler,300,60,8,1,0.1751158237
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 0.9995200634002686",WillsSampler,300,60,8,11,0.9995200634
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.301151990890503",WillsSampler,300,60,8,16,1.301151991
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.5785720348358154",WillsSampler,300,60,8,21,1.578572035
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.3922739028930664",WillsSampler,300,60,8,31,2.392273903
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 3.3260440826416016",WillsSampler,300,60,8,41,3.326044083
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 4.5104660987854",WillsSampler,300,60,8,51,4.510466099
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.5165612697601318",WillsSampler,300,60,8,6,0.5165612698
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=8.'] time: 2.1372177600860596",WillsSampler,300,60,8,0,2.13721776
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.16072607040405273",WillsSampler,300,60,16,1,0.1607260704
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 0.9405760765075684",WillsSampler,300,60,16,11,0.9405760765
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.4567301273345947",WillsSampler,300,60,16,16,1.456730127
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.042567253112793",WillsSampler,300,60,16,21,2.042567253
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.5738680362701416",WillsSampler,300,60,16,31,2.573868036
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 3.687803030014038",WillsSampler,300,60,16,41,3.68780303
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 4.2882080078125",WillsSampler,300,60,16,51,4.288208008
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.504281759262085",WillsSampler,300,60,16,6,0.5042817593
+"WillsSampler.w=300.['sample_size=60.', 'parallel_count=16.'] time: 0.9496021270751953",WillsSampler,300,60,16,0,0.9496021271
+VaasInterchangeHopping_Sampler.w=300.['sample_size=30.'] time: 3.9146440029144287,Ideal Sampler,300,30,0,0,3.914644003
+VaasInterchangeHopping_Sampler.w=300.['sample_size=40.'] time: 6.122446060180664,Ideal Sampler,300,40,0,0,6.12244606
+VaasInterchangeHopping_Sampler.w=300.['sample_size=60.'] time: 8.916807174682617,Ideal Sampler,300,60,0,0,8.916807175
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.1781623363494873",WillsSampler,400,30,1,1,0.1781623363
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.3184230327606201",WillsSampler,400,30,1,11,1.318423033
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.532400131225586",WillsSampler,400,30,1,16,1.532400131
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.8292317390441895",WillsSampler,400,30,1,21,1.829231739
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.688654899597168",WillsSampler,400,30,1,31,2.6886549
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 3.8444509506225586",WillsSampler,400,30,1,41,3.844450951
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 4.626718997955322",WillsSampler,400,30,1,51,4.626718998
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.6465950012207031",WillsSampler,400,30,1,6,0.6465950012
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=1.'] time: 5.883673191070557",WillsSampler,400,30,1,0,5.883673191
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21448493003845215",WillsSampler,400,30,2,1,0.21448493
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.167572021484375",WillsSampler,400,30,2,11,1.167572021
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.6413078308105469",WillsSampler,400,30,2,16,1.641307831
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.0210719108581543",WillsSampler,400,30,2,21,2.021071911
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.309084177017212",WillsSampler,400,30,2,31,3.309084177
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.7624638080596924",WillsSampler,400,30,2,41,3.762463808
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 4.772582769393921",WillsSampler,400,30,2,51,4.772582769
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6484420299530029",WillsSampler,400,30,2,6,0.64844203
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=2.'] time: 5.705195903778076",WillsSampler,400,30,2,0,5.705195904
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.20621800422668457",WillsSampler,400,30,4,1,0.2062180042
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.4708337783813477",WillsSampler,400,30,4,11,1.470833778
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8056449890136719",WillsSampler,400,30,4,16,1.805644989
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.224553108215332",WillsSampler,400,30,4,21,2.224553108
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.150798797607422",WillsSampler,400,30,4,31,3.150798798
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.350876331329346",WillsSampler,400,30,4,41,4.350876331
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.169328927993774",WillsSampler,400,30,4,51,5.169328928
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.8081259727478027",WillsSampler,400,30,4,6,0.8081259727
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=4.'] time: 5.605647087097168",WillsSampler,400,30,4,0,5.605647087
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.2098250389099121",WillsSampler,400,30,8,1,0.2098250389
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.1286590099334717",WillsSampler,400,30,8,11,1.12865901
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.6485230922698975",WillsSampler,400,30,8,16,1.648523092
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.1896932125091553",WillsSampler,400,30,8,21,2.189693213
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.0878939628601074",WillsSampler,400,30,8,31,3.087893963
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 3.764700174331665",WillsSampler,400,30,8,41,3.764700174
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 4.943609237670898",WillsSampler,400,30,8,51,4.943609238
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6936600208282471",WillsSampler,400,30,8,6,0.6936600208
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=8.'] time: 4.286085844039917",WillsSampler,400,30,8,0,4.286085844
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.22757506370544434",WillsSampler,400,30,16,1,0.2275750637
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.1155948638916016",WillsSampler,400,30,16,11,1.115594864
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.6322150230407715",WillsSampler,400,30,16,16,1.632215023
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9642930030822754",WillsSampler,400,30,16,21,1.964293003
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.06476092338562",WillsSampler,400,30,16,31,3.064760923
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.315550088882446",WillsSampler,400,30,16,41,4.315550089
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 4.750736236572266",WillsSampler,400,30,16,51,4.750736237
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.6207640171051025",WillsSampler,400,30,16,6,0.6207640171
+"WillsSampler.w=400.['sample_size=30.', 'parallel_count=16.'] time: 1.816176176071167",WillsSampler,400,30,16,0,1.816176176
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.21697092056274414",WillsSampler,400,40,1,1,0.2169709206
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.0854849815368652",WillsSampler,400,40,1,11,1.085484982
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.4220430850982666",WillsSampler,400,40,1,16,1.422043085
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 1.8777000904083252",WillsSampler,400,40,1,21,1.87770009
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.7033441066741943",WillsSampler,400,40,1,31,2.703344107
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.27446722984314",WillsSampler,400,40,1,41,4.27446723
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.208836078643799",WillsSampler,400,40,1,51,5.208836079
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.8510251045227051",WillsSampler,400,40,1,6,0.8510251045
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=1.'] time: 6.677519083023071",WillsSampler,400,40,1,0,6.677519083
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.18364596366882324",WillsSampler,400,40,2,1,0.1836459637
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.0773568153381348",WillsSampler,400,40,2,11,1.077356815
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.5059711933135986",WillsSampler,400,40,2,16,1.505971193
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 1.9674649238586426",WillsSampler,400,40,2,21,1.967464924
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 2.8450329303741455",WillsSampler,400,40,2,31,2.84503293
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 3.6890738010406494",WillsSampler,400,40,2,41,3.689073801
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 4.656236886978149",WillsSampler,400,40,2,51,4.656236887
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6740491390228271",WillsSampler,400,40,2,6,0.674049139
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=2.'] time: 6.675899267196655",WillsSampler,400,40,2,0,6.675899267
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17451214790344238",WillsSampler,400,40,4,1,0.1745121479
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.0444409847259521",WillsSampler,400,40,4,11,1.044440985
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.6126618385314941",WillsSampler,400,40,4,16,1.612661839
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.1593868732452393",WillsSampler,400,40,4,21,2.159386873
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.1139779090881348",WillsSampler,400,40,4,31,3.113977909
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.8213937282562256",WillsSampler,400,40,4,41,3.821393728
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.244840145111084",WillsSampler,400,40,4,51,5.244840145
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7050070762634277",WillsSampler,400,40,4,6,0.7050070763
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=4.'] time: 5.852931022644043",WillsSampler,400,40,4,0,5.852931023
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.17842507362365723",WillsSampler,400,40,8,1,0.1784250736
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.060671091079712",WillsSampler,400,40,8,11,1.060671091
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.4885787963867188",WillsSampler,400,40,8,16,1.488578796
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 1.9746580123901367",WillsSampler,400,40,8,21,1.974658012
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 2.8334169387817383",WillsSampler,400,40,8,31,2.833416939
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.18929386138916",WillsSampler,400,40,8,41,4.189293861
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.6368608474731445",WillsSampler,400,40,8,51,6.636860847
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6205918788909912",WillsSampler,400,40,8,6,0.6205918789
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=8.'] time: 5.574281930923462",WillsSampler,400,40,8,0,5.574281931
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.261462926864624",WillsSampler,400,40,16,1,0.2614629269
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.0351049900054932",WillsSampler,400,40,16,11,1.03510499
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 2.0007219314575195",WillsSampler,400,40,16,16,2.000721931
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.4024951457977295",WillsSampler,400,40,16,21,2.402495146
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.5369317531585693",WillsSampler,400,40,16,31,3.536931753
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.3541789054870605",WillsSampler,400,40,16,41,4.354178905
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.115332841873169",WillsSampler,400,40,16,51,5.115332842
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7137689590454102",WillsSampler,400,40,16,6,0.713768959
+"WillsSampler.w=400.['sample_size=40.', 'parallel_count=16.'] time: 1.6264362335205078",WillsSampler,400,40,16,0,1.626436234
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.17146587371826172",WillsSampler,400,60,1,1,0.1714658737
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.0071830749511719",WillsSampler,400,60,1,11,1.007183075
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 2.006540060043335",WillsSampler,400,60,1,16,2.00654006
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.8617987632751465",WillsSampler,400,60,1,21,2.861798763
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 2.95206880569458",WillsSampler,400,60,1,31,2.952068806
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.4668989181518555",WillsSampler,400,60,1,41,4.466898918
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 4.285744905471802",WillsSampler,400,60,1,51,4.285744905
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.5938208103179932",WillsSampler,400,60,1,6,0.5938208103
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=1.'] time: 12.774649858474731",WillsSampler,400,60,1,0,12.77464986
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.3245701789855957",WillsSampler,400,60,2,1,0.324570179
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.7638158798217773",WillsSampler,400,60,2,11,1.76381588
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 2.4531352519989014",WillsSampler,400,60,2,16,2.453135252
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.3746299743652344",WillsSampler,400,60,2,21,2.374629974
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 4.469332218170166",WillsSampler,400,60,2,31,4.469332218
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 4.654471158981323",WillsSampler,400,60,2,41,4.654471159
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 6.069364070892334",WillsSampler,400,60,2,51,6.069364071
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.6204359531402588",WillsSampler,400,60,2,6,0.6204359531
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=2.'] time: 10.451532125473022",WillsSampler,400,60,2,0,10.45153213
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.17276716232299805",WillsSampler,400,60,4,1,0.1727671623
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.0604908466339111",WillsSampler,400,60,4,11,1.060490847
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.4765727519989014",WillsSampler,400,60,4,16,1.476572752
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.374084234237671",WillsSampler,400,60,4,21,2.374084234
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.5574951171875",WillsSampler,400,60,4,31,3.557495117
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 3.953392267227173",WillsSampler,400,60,4,41,3.953392267
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 4.683063745498657",WillsSampler,400,60,4,51,4.683063745
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.6094729900360107",WillsSampler,400,60,4,6,0.60947299
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=4.'] time: 10.651710987091064",WillsSampler,400,60,4,0,10.65171099
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.23840570449829102",WillsSampler,400,60,8,1,0.2384057045
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.0405142307281494",WillsSampler,400,60,8,11,1.040514231
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.4786300659179688",WillsSampler,400,60,8,16,1.478630066
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.2054238319396973",WillsSampler,400,60,8,21,2.205423832
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.4855499267578125",WillsSampler,400,60,8,31,3.485549927
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.007882118225098",WillsSampler,400,60,8,41,4.007882118
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 5.367537021636963",WillsSampler,400,60,8,51,5.367537022
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.6833767890930176",WillsSampler,400,60,8,6,0.6833767891
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=8.'] time: 4.912307977676392",WillsSampler,400,60,8,0,4.912307978
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.5344340801239014",WillsSampler,400,60,16,1,0.5344340801
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.1605868339538574",WillsSampler,400,60,16,11,1.160586834
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.481090784072876",WillsSampler,400,60,16,16,1.481090784
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 1.9423103332519531",WillsSampler,400,60,16,21,1.942310333
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 2.931870937347412",WillsSampler,400,60,16,31,2.931870937
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.597509145736694",WillsSampler,400,60,16,41,4.597509146
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 6.474989175796509",WillsSampler,400,60,16,51,6.474989176
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.822282075881958",WillsSampler,400,60,16,6,0.8222820759
+"WillsSampler.w=400.['sample_size=60.', 'parallel_count=16.'] time: 1.751985788345337",WillsSampler,400,60,16,0,1.751985788
+VaasInterchangeHopping_Sampler.w=400.['sample_size=30.'] time: 6.077416896820068,Ideal Sampler,400,30,0,0,6.077416897
+VaasInterchangeHopping_Sampler.w=400.['sample_size=40.'] time: 7.35993504524231,Ideal Sampler,400,40,0,0,7.359935045
+VaasInterchangeHopping_Sampler.w=400.['sample_size=60.'] time: 11.478674173355103,Ideal Sampler,400,60,0,0,11.47867417
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.2220001220703125",WillsSampler,500,30,1,1,0.2220001221
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.2083251476287842",WillsSampler,500,30,1,11,1.208325148
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=16.'] time: 3.1802799701690674",WillsSampler,500,30,1,16,3.18027997
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.347874641418457",WillsSampler,500,30,1,21,2.347874641
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=31.'] time: 4.29484486579895",WillsSampler,500,30,1,31,4.294844866
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.224959135055542",WillsSampler,500,30,1,41,4.224959135
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.9677910804748535",WillsSampler,500,30,1,51,5.96779108
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.726740837097168",WillsSampler,500,30,1,6,0.7267408371
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=1.'] time: 6.18764591217041",WillsSampler,500,30,1,0,6.187645912
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.22797012329101562",WillsSampler,500,30,2,1,0.2279701233
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.3017351627349854",WillsSampler,500,30,2,11,1.301735163
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.8961670398712158",WillsSampler,500,30,2,16,1.89616704
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.3611950874328613",WillsSampler,500,30,2,21,2.361195087
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.4809608459472656",WillsSampler,500,30,2,31,3.480960846
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=41.'] time: 5.927489995956421",WillsSampler,500,30,2,41,5.927489996
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=51.'] time: 7.291095018386841",WillsSampler,500,30,2,51,7.291095018
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.', 'cluster_centers=6.'] time: 1.0626003742218018",WillsSampler,500,30,2,6,1.062600374
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=2.'] time: 7.200985908508301",WillsSampler,500,30,2,0,7.200985909
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2986338138580322",WillsSampler,500,30,4,1,0.2986338139
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.3049201965332031",WillsSampler,500,30,4,11,1.304920197
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.9272119998931885",WillsSampler,500,30,4,16,1.927212
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=21.'] time: 3.335381031036377",WillsSampler,500,30,4,21,3.335381031
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=31.'] time: 4.193346977233887",WillsSampler,500,30,4,31,4.193346977
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=41.'] time: 5.488531112670898",WillsSampler,500,30,4,41,5.488531113
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=51.'] time: 6.964399099349976",WillsSampler,500,30,4,51,6.964399099
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7340059280395508",WillsSampler,500,30,4,6,0.734005928
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=4.'] time: 6.742777109146118",WillsSampler,500,30,4,0,6.742777109
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.2125401496887207",WillsSampler,500,30,8,1,0.2125401497
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.497581958770752",WillsSampler,500,30,8,11,1.497581959
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.8318610191345215",WillsSampler,500,30,8,16,1.831861019
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.3707120418548584",WillsSampler,500,30,8,21,2.370712042
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.9942240715026855",WillsSampler,500,30,8,31,3.994224072
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.867660045623779",WillsSampler,500,30,8,41,4.867660046
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.696099042892456",WillsSampler,500,30,8,51,6.696099043
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.8078279495239258",WillsSampler,500,30,8,6,0.8078279495
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=8.'] time: 4.781852960586548",WillsSampler,500,30,8,0,4.781852961
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.21933293342590332",WillsSampler,500,30,16,1,0.2193329334
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=11.'] time: 2.500274181365967",WillsSampler,500,30,16,11,2.500274181
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.7431418895721436",WillsSampler,500,30,16,16,1.74314189
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.34539794921875",WillsSampler,500,30,16,21,2.345397949
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=31.'] time: 4.1087939739227295",WillsSampler,500,30,16,31,4.108793974
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.524596929550171",WillsSampler,500,30,16,41,4.52459693
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.551106929779053",WillsSampler,500,30,16,51,5.55110693
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7181248664855957",WillsSampler,500,30,16,6,0.7181248665
+"WillsSampler.w=500.['sample_size=30.', 'parallel_count=16.'] time: 2.7884809970855713",WillsSampler,500,30,16,0,2.788480997
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.20995688438415527",WillsSampler,500,40,1,1,0.2099568844
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.1977190971374512",WillsSampler,500,40,1,11,1.197719097
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.8064298629760742",WillsSampler,500,40,1,16,1.806429863
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.2307281494140625",WillsSampler,500,40,1,21,2.230728149
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=31.'] time: 3.1996121406555176",WillsSampler,500,40,1,31,3.199612141
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=41.'] time: 4.092757940292358",WillsSampler,500,40,1,41,4.09275794
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=51.'] time: 5.167474269866943",WillsSampler,500,40,1,51,5.16747427
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.73992919921875",WillsSampler,500,40,1,6,0.7399291992
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=1.'] time: 8.628154993057251",WillsSampler,500,40,1,0,8.628154993
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.21621179580688477",WillsSampler,500,40,2,1,0.2162117958
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.2642252445220947",WillsSampler,500,40,2,11,1.264225245
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=16.'] time: 1.8242077827453613",WillsSampler,500,40,2,16,1.824207783
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.361492872238159",WillsSampler,500,40,2,21,2.361492872
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.462999105453491",WillsSampler,500,40,2,31,3.462999105
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=41.'] time: 4.444524049758911",WillsSampler,500,40,2,41,4.44452405
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=51.'] time: 5.448462963104248",WillsSampler,500,40,2,51,5.448462963
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.', 'cluster_centers=6.'] time: 0.7373178005218506",WillsSampler,500,40,2,6,0.7373178005
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=2.'] time: 8.33884572982788",WillsSampler,500,40,2,0,8.33884573
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2631409168243408",WillsSampler,500,40,4,1,0.2631409168
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.4560558795928955",WillsSampler,500,40,4,11,1.45605588
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8978700637817383",WillsSampler,500,40,4,16,1.897870064
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.5189571380615234",WillsSampler,500,40,4,21,2.518957138
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=31.'] time: 4.9170191287994385",WillsSampler,500,40,4,31,4.917019129
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.512655019760132",WillsSampler,500,40,4,41,4.51265502
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=51.'] time: 6.477374076843262",WillsSampler,500,40,4,51,6.477374077
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7259612083435059",WillsSampler,500,40,4,6,0.7259612083
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=4.'] time: 8.278757810592651",WillsSampler,500,40,4,0,8.278757811
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.20358610153198242",WillsSampler,500,40,8,1,0.2035861015
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.2692170143127441",WillsSampler,500,40,8,11,1.269217014
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=16.'] time: 2.1160781383514404",WillsSampler,500,40,8,16,2.116078138
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.4179110527038574",WillsSampler,500,40,8,21,2.417911053
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.9718821048736572",WillsSampler,500,40,8,31,3.971882105
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=41.'] time: 4.550557851791382",WillsSampler,500,40,8,41,4.550557852
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=51.'] time: 5.871667861938477",WillsSampler,500,40,8,51,5.871667862
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.', 'cluster_centers=6.'] time: 0.7373058795928955",WillsSampler,500,40,8,6,0.7373058796
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=8.'] time: 6.4081621170043945",WillsSampler,500,40,8,0,6.408162117
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.34929418563842773",WillsSampler,500,40,16,1,0.3492941856
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.6490628719329834",WillsSampler,500,40,16,11,1.649062872
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=16.'] time: 2.4986789226531982",WillsSampler,500,40,16,16,2.498678923
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.7030131816864014",WillsSampler,500,40,16,21,2.703013182
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.41191029548645",WillsSampler,500,40,16,31,3.411910295
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=41.'] time: 6.572938919067383",WillsSampler,500,40,16,41,6.572938919
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.638374090194702",WillsSampler,500,40,16,51,5.63837409
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.7294731140136719",WillsSampler,500,40,16,6,0.729473114
+"WillsSampler.w=500.['sample_size=40.', 'parallel_count=16.'] time: 2.3846356868743896",WillsSampler,500,40,16,0,2.384635687
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=1.'] time: 0.25604677200317383",WillsSampler,500,60,1,1,0.256046772
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=11.'] time: 1.2248291969299316",WillsSampler,500,60,1,11,1.224829197
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=16.'] time: 1.8408901691436768",WillsSampler,500,60,1,16,1.840890169
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=21.'] time: 2.747919797897339",WillsSampler,500,60,1,21,2.747919798
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=31.'] time: 3.8286237716674805",WillsSampler,500,60,1,31,3.828623772
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=41.'] time: 6.765093088150024",WillsSampler,500,60,1,41,6.765093088
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=51.'] time: 6.945508003234863",WillsSampler,500,60,1,51,6.945508003
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.', 'cluster_centers=6.'] time: 0.7464709281921387",WillsSampler,500,60,1,6,0.7464709282
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=1.'] time: 11.894743919372559",WillsSampler,500,60,1,0,11.89474392
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=1.'] time: 0.2153940200805664",WillsSampler,500,60,2,1,0.2153940201
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=11.'] time: 1.85247802734375",WillsSampler,500,60,2,11,1.852478027
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=16.'] time: 2.1541099548339844",WillsSampler,500,60,2,16,2.154109955
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=21.'] time: 2.479914903640747",WillsSampler,500,60,2,21,2.479914904
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=31.'] time: 3.6449661254882812",WillsSampler,500,60,2,31,3.644966125
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=41.'] time: 5.862537860870361",WillsSampler,500,60,2,41,5.862537861
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=51.'] time: 6.6262428760528564",WillsSampler,500,60,2,51,6.626242876
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.', 'cluster_centers=6.'] time: 1.3279590606689453",WillsSampler,500,60,2,6,1.327959061
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=2.'] time: 13.678931951522827",WillsSampler,500,60,2,0,13.67893195
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=1.'] time: 0.2103276252746582",WillsSampler,500,60,4,1,0.2103276253
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=11.'] time: 1.2777490615844727",WillsSampler,500,60,4,11,1.277749062
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=16.'] time: 1.8654818534851074",WillsSampler,500,60,4,16,1.865481853
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=21.'] time: 2.4094159603118896",WillsSampler,500,60,4,21,2.40941596
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=31.'] time: 3.619443416595459",WillsSampler,500,60,4,31,3.619443417
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=41.'] time: 4.5457189083099365",WillsSampler,500,60,4,41,4.545718908
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=51.'] time: 5.686726331710815",WillsSampler,500,60,4,51,5.686726332
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.', 'cluster_centers=6.'] time: 0.7538061141967773",WillsSampler,500,60,4,6,0.7538061142
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=4.'] time: 9.526901006698608",WillsSampler,500,60,4,0,9.526901007
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=1.'] time: 0.21241402626037598",WillsSampler,500,60,8,1,0.2124140263
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=11.'] time: 1.2541980743408203",WillsSampler,500,60,8,11,1.254198074
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=16.'] time: 1.7970139980316162",WillsSampler,500,60,8,16,1.797013998
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=21.'] time: 2.4097988605499268",WillsSampler,500,60,8,21,2.409798861
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=31.'] time: 3.3910439014434814",WillsSampler,500,60,8,31,3.391043901
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=41.'] time: 5.103307008743286",WillsSampler,500,60,8,41,5.103307009
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=51.'] time: 6.598582983016968",WillsSampler,500,60,8,51,6.598582983
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.', 'cluster_centers=6.'] time: 1.028700828552246",WillsSampler,500,60,8,6,1.028700829
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=8.'] time: 5.61665940284729",WillsSampler,500,60,8,0,5.616659403
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=1.'] time: 0.21319317817687988",WillsSampler,500,60,16,1,0.2131931782
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=11.'] time: 1.2465097904205322",WillsSampler,500,60,16,11,1.24650979
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=16.'] time: 1.807499885559082",WillsSampler,500,60,16,16,1.807499886
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=21.'] time: 2.336594820022583",WillsSampler,500,60,16,21,2.33659482
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=31.'] time: 3.504837989807129",WillsSampler,500,60,16,31,3.50483799
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=41.'] time: 4.462220191955566",WillsSampler,500,60,16,41,4.462220192
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=51.'] time: 5.953737258911133",WillsSampler,500,60,16,51,5.953737259
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.', 'cluster_centers=6.'] time: 0.9967532157897949",WillsSampler,500,60,16,6,0.9967532158
+"WillsSampler.w=500.['sample_size=60.', 'parallel_count=16.'] time: 2.138881206512451",WillsSampler,500,60,16,0,2.138881207
+VaasInterchangeHopping_Sampler.w=500.['sample_size=30.'] time: 6.208431959152222,Ideal Sampler,500,30,0,0,6.208431959
+VaasInterchangeHopping_Sampler.w=500.['sample_size=40.'] time: 8.20773196220398,Ideal Sampler,500,40,0,0,8.207731962
+VaasInterchangeHopping_Sampler.w=500.['sample_size=60.'] time: 11.686748743057251,Ideal Sampler,500,60,0,0,11.68674874
