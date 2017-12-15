@@ -2,9 +2,9 @@
 
 Download this git repo
 ```
-git clone <repo_url>
+git clone git@github.com:william-schmitt/eecs598f17
 ```
-run the test environment
+run the test environment (cloned from: docker repo @ https://hub.docker.com/r/cargoembargo/eecs598schmittw/)
 ```
 docker run -it --cpus='2' --memory='8g' -v /location/of/repo/on/host:/root/vaastr cargoembargo/eecs598schmittw
 ```
@@ -18,23 +18,3 @@ Data collected from the window of each experiment is available in the respective
 Timing data will be output to the standard console
 
 ** WARN: It will take a number of hours to run driver.py **
-
-Troubleshooting:
-- Python package missing, interpreter errors, etc:
-    you likely need to rebuild the virtualenv in the docker container
-    this is relatively easy to do
-    ```
-    # ensure that the correct versions of python are installed
-    sudo apt-get update
-    sudo apt-get install python3-pip # python3.4 should be installed by default on Ubuntu 14.04 (LTS)
-    rm -rf ubuntu_venv # remove old package
-    virtualenv --no-site-packages --always-copy -p $(which python3.4) ubuntu_venv # init new virtualenv
-    pip install -r requirements.txt # install the dependencies specified in requirements
-    ```
-
-- Clearing docker images, containers
-```
-docker rm $(docker ps -a -q)
-docker rmi $(docker images -q)
-```
-
